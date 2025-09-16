@@ -1,0 +1,5779 @@
+{
+  "query": "diabetes",
+  "year_range": {
+    "start": 2015,
+    "end": 2020
+  },
+  "pubmed": {
+    "total_count": 198297,
+    "year_counts": {
+      "2015": 33192,
+      "2016": 34713,
+      "2017": 35065,
+      "2018": 36402,
+      "2019": 38641,
+      "2020": 45049
+    },
+    "fetched_count": 50
+  },
+  "citations": {
+    "source_of_truth": "both"
+  },
+  "items": [
+    {
+      "pmid": "27929632",
+      "title": "17q12 Recurrent Deletion Syndrome.",
+      "journal": "",
+      "pub_year": 1993,
+      "doi": null,
+      "authors": [
+        {
+          "name": "Adam MP",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5081603701",
+          "institutions": []
+        },
+        {
+          "name": "Feldman J",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5108999427",
+          "institutions": []
+        },
+        {
+          "name": "Mirzaa GM",
+          "order": 3,
+          "openalex_author_id": "https://openalex.org/A5032118605",
+          "institutions": []
+        },
+        {
+          "name": "Pagon RA",
+          "order": 4,
+          "openalex_author_id": "https://openalex.org/A5107896404",
+          "institutions": []
+        },
+        {
+          "name": "Wallace SE",
+          "order": 5,
+          "openalex_author_id": "https://openalex.org/A5071692438",
+          "institutions": []
+        },
+        {
+          "name": "Amemiya A",
+          "order": 6,
+          "openalex_author_id": "https://openalex.org/A5038854266",
+          "institutions": []
+        },
+        {
+          "name": "Mitchel MW",
+          "order": 7,
+          "openalex_author_id": "https://openalex.org/A5111379933",
+          "institutions": []
+        },
+        {
+          "name": "Moreno-De-Luca D",
+          "order": 8
+        },
+        {
+          "name": "Myers SM",
+          "order": 9
+        },
+        {
+          "name": "Levy RV",
+          "order": 10
+        },
+        {
+          "name": "Turner S",
+          "order": 11
+        },
+        {
+          "name": "Ledbetter DH",
+          "order": 12
+        },
+        {
+          "name": "Martin CL",
+          "order": 13
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W2574060954",
+        "cited_by_count": 0,
+        "is_retracted": false,
+        "concepts": [
+          "Deletion syndrome",
+          "Computer science",
+          "Genetics",
+          "Biology",
+          "Gene",
+          "Phenotype"
+        ]
+      },
+      "citations": {
+        "value": 0,
+        "source_of_truth": "both",
+        "sources": {
+          "openalex": {
+            "value": 0,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": null,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "27831681",
+      "title": "Primary Familial and Congenital Erythrocytosis.",
+      "journal": "",
+      "pub_year": 1993,
+      "doi": null,
+      "authors": [
+        {
+          "name": "Adam MP",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5081603701",
+          "institutions": []
+        },
+        {
+          "name": "Feldman J",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5108999427",
+          "institutions": []
+        },
+        {
+          "name": "Mirzaa GM",
+          "order": 3,
+          "openalex_author_id": "https://openalex.org/A5032118605",
+          "institutions": []
+        },
+        {
+          "name": "Pagon RA",
+          "order": 4,
+          "openalex_author_id": "https://openalex.org/A5107896404",
+          "institutions": []
+        },
+        {
+          "name": "Wallace SE",
+          "order": 5,
+          "openalex_author_id": "https://openalex.org/A5071692438",
+          "institutions": []
+        },
+        {
+          "name": "Amemiya A",
+          "order": 6,
+          "openalex_author_id": "https://openalex.org/A5038854266",
+          "institutions": []
+        },
+        {
+          "name": "Prchal J",
+          "order": 7,
+          "openalex_author_id": "https://openalex.org/A5111379933",
+          "institutions": []
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W2563429902",
+        "cited_by_count": 0,
+        "is_retracted": false,
+        "concepts": [
+          "Medicine",
+          "Primary (astronomy)",
+          "Pediatrics",
+          "Physics",
+          "Astronomy"
+        ]
+      },
+      "citations": {
+        "value": 0,
+        "source_of_truth": "both",
+        "sources": {
+          "openalex": {
+            "value": 0,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": null,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "28406602",
+      "title": "Myhre Syndrome.",
+      "journal": "",
+      "pub_year": 1993,
+      "doi": null,
+      "authors": [
+        {
+          "name": "Adam MP",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5081603701",
+          "institutions": []
+        },
+        {
+          "name": "Feldman J",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5108999427",
+          "institutions": []
+        },
+        {
+          "name": "Mirzaa GM",
+          "order": 3,
+          "openalex_author_id": "https://openalex.org/A5032118605",
+          "institutions": []
+        },
+        {
+          "name": "Pagon RA",
+          "order": 4,
+          "openalex_author_id": "https://openalex.org/A5107896404",
+          "institutions": []
+        },
+        {
+          "name": "Wallace SE",
+          "order": 5,
+          "openalex_author_id": "https://openalex.org/A5071692438",
+          "institutions": []
+        },
+        {
+          "name": "Amemiya A",
+          "order": 6,
+          "openalex_author_id": "https://openalex.org/A5038854266",
+          "institutions": []
+        },
+        {
+          "name": "Lin AE",
+          "order": 7,
+          "openalex_author_id": "https://openalex.org/A5111379933",
+          "institutions": []
+        },
+        {
+          "name": "Brunetti-Pierri N",
+          "order": 8
+        },
+        {
+          "name": "Lindsay ME",
+          "order": 9
+        },
+        {
+          "name": "Schimmenti LA",
+          "order": 10
+        },
+        {
+          "name": "Starr LJ",
+          "order": 11
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W2975146779",
+        "cited_by_count": 2,
+        "is_retracted": false,
+        "concepts": [
+          "Computer science"
+        ]
+      },
+      "citations": {
+        "value": 2,
+        "source_of_truth": "both",
+        "sources": {
+          "openalex": {
+            "value": 2,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": null,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "29369573",
+      "title": "INSR-Related Severe Insulin Resistance Syndrome.",
+      "journal": "",
+      "pub_year": 1993,
+      "doi": null,
+      "authors": [
+        {
+          "name": "Adam MP",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5081603701",
+          "institutions": []
+        },
+        {
+          "name": "Feldman J",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5108999427",
+          "institutions": []
+        },
+        {
+          "name": "Mirzaa GM",
+          "order": 3,
+          "openalex_author_id": "https://openalex.org/A5032118605",
+          "institutions": []
+        },
+        {
+          "name": "Pagon RA",
+          "order": 4,
+          "openalex_author_id": "https://openalex.org/A5107896404",
+          "institutions": []
+        },
+        {
+          "name": "Wallace SE",
+          "order": 5,
+          "openalex_author_id": "https://openalex.org/A5071692438",
+          "institutions": []
+        },
+        {
+          "name": "Amemiya A",
+          "order": 6,
+          "openalex_author_id": "https://openalex.org/A5010307971",
+          "institutions": []
+        },
+        {
+          "name": "Mesika A",
+          "order": 7,
+          "openalex_author_id": "https://openalex.org/A5111379933",
+          "institutions": []
+        },
+        {
+          "name": "Klar A",
+          "order": 8
+        },
+        {
+          "name": "Falik Zaccai TC",
+          "order": 9
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W2982107296",
+        "cited_by_count": 0,
+        "is_retracted": false,
+        "concepts": [
+          "Insulin resistance",
+          "Resistance (ecology)",
+          "Insulin receptor",
+          "Insulin",
+          "Medicine",
+          "Genetics",
+          "Biology",
+          "Computer science",
+          "Internal medicine",
+          "Ecology"
+        ]
+      },
+      "citations": {
+        "value": 0,
+        "source_of_truth": "both",
+        "sources": {
+          "openalex": {
+            "value": 0,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": null,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "38046874",
+      "title": "COVID-19 critical illness in Sweden: characteristics and outcomes at a national population level.",
+      "journal": "Critical care and resuscitation : journal of the Australasian Academy of Critical Care Medicine",
+      "pub_year": 2020,
+      "doi": "10.51893/2020.4.OA3",
+      "authors": [
+        {
+          "name": "Mårtensson J",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5072912292",
+          "institutions": [
+            {
+              "name": "Karolinska University Hospital",
+              "ror": "https://ror.org/00m8d6786",
+              "country_code": "SE"
+            },
+            {
+              "name": "Karolinska Institutet",
+              "ror": "https://ror.org/056d84691",
+              "country_code": "SE"
+            }
+          ]
+        },
+        {
+          "name": "Engerström L",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5112555738",
+          "institutions": [
+            {
+              "name": "Linköping University Hospital",
+              "ror": "https://ror.org/05h1aye87",
+              "country_code": "SE"
+            },
+            {
+              "name": "Linköping University",
+              "ror": "https://ror.org/05ynxx418",
+              "country_code": "SE"
+            }
+          ]
+        },
+        {
+          "name": "Walther S",
+          "order": 3,
+          "openalex_author_id": "https://openalex.org/A5040419427",
+          "institutions": [
+            {
+              "name": "Linköping University",
+              "ror": "https://ror.org/05ynxx418",
+              "country_code": "SE"
+            },
+            {
+              "name": "Linköping University Hospital",
+              "ror": "https://ror.org/05h1aye87",
+              "country_code": "SE"
+            }
+          ]
+        },
+        {
+          "name": "Grip J",
+          "order": 4,
+          "openalex_author_id": "https://openalex.org/A5084263346",
+          "institutions": [
+            {
+              "name": "Karolinska University Hospital",
+              "ror": "https://ror.org/00m8d6786",
+              "country_code": "SE"
+            },
+            {
+              "name": "Karolinska Institutet",
+              "ror": "https://ror.org/056d84691",
+              "country_code": "SE"
+            }
+          ]
+        },
+        {
+          "name": "Berggren RK",
+          "order": 5,
+          "openalex_author_id": "https://openalex.org/A5022065594",
+          "institutions": [
+            {
+              "name": "Umeå University",
+              "ror": "https://ror.org/05kb8h459",
+              "country_code": "SE"
+            }
+          ]
+        },
+        {
+          "name": "Larsson E",
+          "order": 6,
+          "openalex_author_id": "https://openalex.org/A5028226944",
+          "institutions": [
+            {
+              "name": "Karolinska Institutet",
+              "ror": "https://ror.org/056d84691",
+              "country_code": "SE"
+            },
+            {
+              "name": "Karolinska University Hospital",
+              "ror": "https://ror.org/00m8d6786",
+              "country_code": "SE"
+            }
+          ]
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W3129734470",
+        "cited_by_count": 7,
+        "is_retracted": false,
+        "concepts": [
+          "Medicine",
+          "Interquartile range",
+          "Intensive care unit",
+          "Comorbidity",
+          "Hazard ratio",
+          "Mechanical ventilation",
+          "Internal medicine",
+          "Population",
+          "Cohort",
+          "Proportional hazards model",
+          "Renal replacement therapy",
+          "Emergency medicine",
+          "Confidence interval",
+          "Environmental health"
+        ]
+      },
+      "icite": {
+        "cited_by": [
+          38046684
+        ]
+      },
+      "citations": {
+        "value": 7,
+        "source_of_truth": "both",
+        "sources": {
+          "openalex": {
+            "value": 7,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": null,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "36969130",
+      "title": "Fournier's gangrene and diabetic ketoacidosis with lower-than-anticipated glucose levels associated with SGLT-2 inhibitor: A double trouble.",
+      "journal": "Medical journal, Armed Forces India",
+      "pub_year": 2023,
+      "doi": "10.1016/j.mjafi.2020.08.013",
+      "authors": [
+        {
+          "name": "Vadi S",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5036534451",
+          "institutions": [
+            {
+              "name": "Kokilaben Dhirubhai Ambani Hospital",
+              "ror": "https://ror.org/039n2wf68",
+              "country_code": "IN"
+            }
+          ]
+        },
+        {
+          "name": "Ismail A",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5017493832",
+          "institutions": [
+            {
+              "name": "Kokilaben Dhirubhai Ambani Hospital",
+              "ror": "https://ror.org/039n2wf68",
+              "country_code": "IN"
+            }
+          ]
+        },
+        {
+          "name": "Kapoor D",
+          "order": 3,
+          "openalex_author_id": "https://openalex.org/A5001960927",
+          "institutions": [
+            {
+              "name": "Kokilaben Dhirubhai Ambani Hospital",
+              "ror": "https://ror.org/039n2wf68",
+              "country_code": "IN"
+            }
+          ]
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W3102129468",
+        "cited_by_count": 4,
+        "is_retracted": false,
+        "concepts": [
+          "Medicine",
+          "Empagliflozin",
+          "Diabetic ketoacidosis",
+          "Gangrene",
+          "Diabetes mellitus",
+          "Canagliflozin",
+          "Ketoacidosis",
+          "Type 2 Diabetes Mellitus",
+          "Intensive care medicine",
+          "Type 1 diabetes",
+          "Surgery",
+          "Internal medicine",
+          "Endocrinology"
+        ]
+      },
+      "icite": {
+        "cited_by": [
+          40200617,
+          39871381
+        ]
+      },
+      "citations": {
+        "value": 4,
+        "source_of_truth": "both",
+        "sources": {
+          "openalex": {
+            "value": 4,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": null,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "36753223",
+      "title": "[Perceived barriers and coping strategies developed by patients with type 2 diabetes mellitus to join to walking].",
+      "journal": "Revista de salud publica (Bogota, Colombia)",
+      "pub_year": 2020,
+      "doi": "10.15446/rsap.V22n5.54427",
+      "authors": [
+        {
+          "name": "Vieira da Silva MA",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5026435855",
+          "institutions": [
+            {
+              "name": "Universidade Estadual de Campinas (UNICAMP)",
+              "ror": "https://ror.org/04wffgt70",
+              "country_code": "BR"
+            }
+          ]
+        },
+        {
+          "name": "Gouvêa GR",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5064937392",
+          "institutions": [
+            {
+              "name": "Centro Universitário Herminio Ometto de Araras",
+              "ror": "https://ror.org/04z7f4v54",
+              "country_code": "BR"
+            }
+          ]
+        },
+        {
+          "name": "João TMS",
+          "order": 3,
+          "openalex_author_id": "https://openalex.org/A5021074759",
+          "institutions": [
+            {
+              "name": "Universidade Estadual de Campinas (UNICAMP)",
+              "ror": "https://ror.org/04wffgt70",
+              "country_code": "BR"
+            }
+          ]
+        },
+        {
+          "name": "Agondi RF",
+          "order": 4,
+          "openalex_author_id": "https://openalex.org/A5045292937",
+          "institutions": [
+            {
+              "name": "Universidade Estadual de Campinas (UNICAMP)",
+              "ror": "https://ror.org/04wffgt70",
+              "country_code": "BR"
+            }
+          ]
+        },
+        {
+          "name": "Mialhe FL",
+          "order": 5,
+          "openalex_author_id": "https://openalex.org/A5046534539",
+          "institutions": [
+            {
+              "name": "Universidade Estadual de Campinas (UNICAMP)",
+              "ror": "https://ror.org/04wffgt70",
+              "country_code": "BR"
+            }
+          ]
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W3205867771",
+        "cited_by_count": 0,
+        "is_retracted": false,
+        "concepts": [
+          "Psychology",
+          "Coping (psychology)",
+          "Medicine",
+          "Clinical psychology"
+        ]
+      },
+      "icite": {
+        "cited_by": null
+      },
+      "citations": {
+        "value": 0,
+        "source_of_truth": "reconciled",
+        "sources": {
+          "openalex": {
+            "value": 0,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": 0,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "36753216",
+      "title": "[Prevention of non-communicable diseases from governance and food security in Soraca, Colombia].",
+      "journal": "Revista de salud publica (Bogota, Colombia)",
+      "pub_year": 2020,
+      "doi": "10.15446/rsap.V22n5.85732",
+      "authors": [
+        {
+          "name": "Castro-Prieto PA",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5067524239",
+          "institutions": [
+            {
+              "name": "Fundación Santa Fe de Bogotá",
+              "ror": "https://ror.org/03ezapm74",
+              "country_code": "CO"
+            }
+          ]
+        },
+        {
+          "name": "Bustos-Velandia JP",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5035236300",
+          "institutions": [
+            {
+              "name": "Pontificia Universidad Javeriana",
+              "ror": "https://ror.org/03etyjw28",
+              "country_code": "CO"
+            }
+          ]
+        },
+        {
+          "name": "Carrasquilla-Gutiérrez JG",
+          "order": 3,
+          "openalex_author_id": "https://openalex.org/A5060561698",
+          "institutions": [
+            {
+              "name": "Fundación Santa Fe de Bogotá",
+              "ror": "https://ror.org/03ezapm74",
+              "country_code": "CO"
+            }
+          ]
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W3185396309",
+        "cited_by_count": 1,
+        "is_retracted": false,
+        "concepts": [
+          "Political science",
+          "Food security",
+          "Welfare economics",
+          "Corporate governance",
+          "Geography",
+          "Government (linguistics)",
+          "Economic growth",
+          "Environmental health",
+          "Business",
+          "Medicine",
+          "Agriculture",
+          "Economics",
+          "Philosophy",
+          "Linguistics",
+          "Archaeology",
+          "Finance"
+        ]
+      },
+      "icite": {
+        "cited_by": null
+      },
+      "citations": {
+        "value": 1,
+        "source_of_truth": "reconciled",
+        "sources": {
+          "openalex": {
+            "value": 1,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": 0,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 1
+      }
+    },
+    {
+      "pmid": "36753178",
+      "title": "[Management of medications and lifestyle to treat diabetes in the elderly].",
+      "journal": "Revista de salud publica (Bogota, Colombia)",
+      "pub_year": 2019,
+      "doi": "10.15446/rsap.V21n3.77822",
+      "authors": [
+        {
+          "name": "Santos-Souza AD",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5072144510",
+          "institutions": [
+            {
+              "name": "Southwest Bahia State University",
+              "ror": "https://ror.org/02rg6ka44",
+              "country_code": "BR"
+            }
+          ]
+        },
+        {
+          "name": "Cardoso-Santos IS",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5001311629",
+          "institutions": [
+            {
+              "name": "Southwest Bahia State University",
+              "ror": "https://ror.org/02rg6ka44",
+              "country_code": "BR"
+            }
+          ]
+        },
+        {
+          "name": "Campos-Meira E",
+          "order": 3,
+          "openalex_author_id": "https://openalex.org/A5017943605",
+          "institutions": [
+            {
+              "name": "Southwest Bahia State University",
+              "ror": "https://ror.org/02rg6ka44",
+              "country_code": "BR"
+            }
+          ]
+        },
+        {
+          "name": "Coelho de Oliveira BΒ",
+          "order": 4,
+          "openalex_author_id": "https://openalex.org/A5003303229",
+          "institutions": [
+            {
+              "name": "Southwest Bahia State University",
+              "ror": "https://ror.org/02rg6ka44",
+              "country_code": "BR"
+            }
+          ]
+        },
+        {
+          "name": "Souza Júnior EV",
+          "order": 5,
+          "openalex_author_id": "https://openalex.org/A5019791551",
+          "institutions": [
+            {
+              "name": "Universidade de Ribeirão Preto",
+              "ror": "https://ror.org/00ey54k21",
+              "country_code": "BR"
+            }
+          ]
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W3025158192",
+        "cited_by_count": 3,
+        "is_retracted": false,
+        "concepts": [
+          "Thematic analysis",
+          "Gerontology",
+          "Qualitative research",
+          "Content analysis",
+          "Medicine",
+          "Nursing",
+          "Psychology",
+          "Sociology",
+          "Social science"
+        ]
+      },
+      "icite": {
+        "cited_by": null
+      },
+      "citations": {
+        "value": 3,
+        "source_of_truth": "reconciled",
+        "sources": {
+          "openalex": {
+            "value": 3,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": 0,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 3
+      }
+    },
+    {
+      "pmid": "36742753",
+      "title": "Malignant Otitis Externa: Diagnostic Dilemma in a Patient with Atypical Presentation.",
+      "journal": "Indian journal of otolaryngology and head and neck surgery : official publication of the Association of Otolaryngologists of India",
+      "pub_year": 2022,
+      "doi": "10.1007/s12070-020-02073-8",
+      "authors": [
+        {
+          "name": "Jain A",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5011884039",
+          "institutions": []
+        },
+        {
+          "name": "Sharma V",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5101742859",
+          "institutions": []
+        },
+        {
+          "name": "Fatima SS",
+          "order": 3,
+          "openalex_author_id": "https://openalex.org/A5025201209",
+          "institutions": []
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W3080837588",
+        "cited_by_count": 3,
+        "is_retracted": false,
+        "concepts": [
+          "Medicine",
+          "Otitis",
+          "Presentation (obstetrics)",
+          "Temporal bone",
+          "Otorhinolaryngology",
+          "Complication",
+          "Dilemma",
+          "Dermatology",
+          "Skull",
+          "Surgery",
+          "Pediatrics",
+          "Epistemology",
+          "Philosophy"
+        ]
+      },
+      "icite": {
+        "cited_by": [
+          39142310
+        ]
+      },
+      "citations": {
+        "value": 3,
+        "source_of_truth": "both",
+        "sources": {
+          "openalex": {
+            "value": 3,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": null,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "36568915",
+      "title": "The Role of Socioeconomic Status in a Community-Based Study of Diabetes Secondary Prevention Among African Americans.",
+      "journal": "International journal of health promotion and education",
+      "pub_year": 2022,
+      "doi": "10.1080/14635240.2020.1866999",
+      "authors": [
+        {
+          "name": "Silberberg M",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5027143927",
+          "institutions": [
+            {
+              "name": "Duke University Health System",
+              "ror": "https://ror.org/03wfqwh68",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "Muhlbaier LH",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5086742858",
+          "institutions": [
+            {
+              "name": "Duke University",
+              "ror": "https://ror.org/00py81415",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "Hart-Brothers E",
+          "order": 3,
+          "openalex_author_id": "https://openalex.org/A5007185978",
+          "institutions": []
+        },
+        {
+          "name": "Weaver SM",
+          "order": 4,
+          "openalex_author_id": "https://openalex.org/A5044035354",
+          "institutions": [
+            {
+              "name": "Duke University Health System",
+              "ror": "https://ror.org/03wfqwh68",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "James SA",
+          "order": 5,
+          "openalex_author_id": "https://openalex.org/A5024025137",
+          "institutions": [
+            {
+              "name": "Duke University",
+              "ror": "https://ror.org/00py81415",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "King SB",
+          "order": 6
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W3117783042",
+        "cited_by_count": 4,
+        "is_retracted": false,
+        "concepts": [
+          "Socioeconomic status",
+          "Medicine",
+          "Psychological intervention",
+          "Demography",
+          "Population",
+          "Logistic regression",
+          "Gerontology",
+          "Environmental health",
+          "Sociology",
+          "Psychiatry",
+          "Internal medicine"
+        ]
+      },
+      "icite": {
+        "cited_by": [
+          37426734,
+          34410372
+        ]
+      },
+      "citations": {
+        "value": 4,
+        "source_of_truth": "both",
+        "sources": {
+          "openalex": {
+            "value": 4,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": null,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "36452833",
+      "title": "Rare Presentation of Nasal Mucormycosis.",
+      "journal": "Indian journal of otolaryngology and head and neck surgery : official publication of the Association of Otolaryngologists of India",
+      "pub_year": 2022,
+      "doi": "10.1007/s12070-020-02001-w",
+      "authors": [
+        {
+          "name": "Wadhera R",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5063947148",
+          "institutions": [
+            {
+              "name": "Pandit Bhagwat Dayal Sharma Post Graduate Institute of Medical Sciences",
+              "ror": "https://ror.org/053y9xq02",
+              "country_code": "IN"
+            }
+          ]
+        },
+        {
+          "name": "Vashist A",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5040656154",
+          "institutions": [
+            {
+              "name": "Pandit Bhagwat Dayal Sharma Post Graduate Institute of Medical Sciences",
+              "ror": "https://ror.org/053y9xq02",
+              "country_code": "IN"
+            }
+          ]
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W3045427070",
+        "cited_by_count": 1,
+        "is_retracted": false,
+        "concepts": [
+          "Mucormycosis",
+          "Medicine",
+          "Nasal cavity",
+          "Paranasal sinuses",
+          "Surgery",
+          "Diabetic ketoacidosis",
+          "Nose",
+          "Diabetes mellitus",
+          "Sinusitis",
+          "Otorhinolaryngology",
+          "Presentation (obstetrics)",
+          "Debridement (dental)",
+          "Neutropenia",
+          "Dermatology",
+          "Chemotherapy",
+          "Endocrinology"
+        ]
+      },
+      "icite": {
+        "cited_by": [
+          40678738
+        ]
+      },
+      "citations": {
+        "value": 1,
+        "source_of_truth": "both",
+        "sources": {
+          "openalex": {
+            "value": 1,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": null,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "36452720",
+      "title": "Pharyngocutaneous Fistula Following Primary and Salvage Laryngectomy: Aetiology and Predictive Factors.",
+      "journal": "Indian journal of otolaryngology and head and neck surgery : official publication of the Association of Otolaryngologists of India",
+      "pub_year": 2022,
+      "doi": "10.1007/s12070-020-02046-x",
+      "authors": [
+        {
+          "name": "Michael RC",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5059385985",
+          "institutions": [
+            {
+              "name": "Christian Medical College, Vellore",
+              "ror": "https://ror.org/00c7kvd80",
+              "country_code": "IN"
+            }
+          ]
+        },
+        {
+          "name": "Das S",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5035814258",
+          "institutions": [
+            {
+              "name": "Christian Medical College, Vellore",
+              "ror": "https://ror.org/00c7kvd80",
+              "country_code": "IN"
+            }
+          ]
+        },
+        {
+          "name": "Mani S",
+          "order": 3,
+          "openalex_author_id": "https://openalex.org/A5024474659",
+          "institutions": [
+            {
+              "name": "Christian Medical College, Vellore",
+              "ror": "https://ror.org/00c7kvd80",
+              "country_code": "IN"
+            }
+          ]
+        },
+        {
+          "name": "Arunagiri S",
+          "order": 4,
+          "openalex_author_id": "https://openalex.org/A5052905629",
+          "institutions": [
+            {
+              "name": "Christian Medical College, Vellore",
+              "ror": "https://ror.org/00c7kvd80",
+              "country_code": "IN"
+            }
+          ]
+        },
+        {
+          "name": "Thomas R",
+          "order": 5,
+          "openalex_author_id": "https://openalex.org/A5020371926",
+          "institutions": [
+            {
+              "name": "Christian Medical College, Vellore",
+              "ror": "https://ror.org/00c7kvd80",
+              "country_code": "IN"
+            }
+          ]
+        },
+        {
+          "name": "Vediappan RS",
+          "order": 6,
+          "openalex_author_id": "https://openalex.org/A5089729034",
+          "institutions": [
+            {
+              "name": "Christian Medical College, Vellore",
+              "ror": "https://ror.org/00c7kvd80",
+              "country_code": "IN"
+            }
+          ]
+        },
+        {
+          "name": "Philip DM",
+          "order": 7,
+          "openalex_author_id": "https://openalex.org/A5090109146",
+          "institutions": [
+            {
+              "name": "Christian Medical College, Vellore",
+              "ror": "https://ror.org/00c7kvd80",
+              "country_code": "IN"
+            }
+          ]
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W3049033352",
+        "cited_by_count": 6,
+        "is_retracted": false,
+        "concepts": [
+          "Medicine",
+          "Otorhinolaryngology",
+          "Laryngectomy",
+          "Head and neck surgery",
+          "Etiology",
+          "General surgery",
+          "Surgery",
+          "Fistula",
+          "Larynx",
+          "Internal medicine"
+        ]
+      },
+      "icite": {
+        "cited_by": [
+          37190174,
+          40279171,
+          38137697,
+          38660912,
+          39435501,
+          38795412
+        ]
+      },
+      "citations": {
+        "value": 6,
+        "source_of_truth": "both",
+        "sources": {
+          "openalex": {
+            "value": 6,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": null,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "36452667",
+      "title": "First Report on Concomitant Infection of Nasal Myiasis and Trichosporonosis in an Uncontrolled Diabetic Patient: Case Report.",
+      "journal": "Indian journal of otolaryngology and head and neck surgery : official publication of the Association of Otolaryngologists of India",
+      "pub_year": 2022,
+      "doi": "10.1007/s12070-020-01850-9",
+      "authors": [
+        {
+          "name": "Tyagi AK",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5007266664",
+          "institutions": [
+            {
+              "name": "All India Institute of Medical Sciences Rishikesh",
+              "ror": "https://ror.org/05qjwb041",
+              "country_code": null
+            }
+          ]
+        },
+        {
+          "name": "Suji PS",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5114069327",
+          "institutions": [
+            {
+              "name": "All India Institute of Medical Sciences Rishikesh",
+              "ror": "https://ror.org/05qjwb041",
+              "country_code": null
+            }
+          ]
+        },
+        {
+          "name": "Kumar A",
+          "order": 3,
+          "openalex_author_id": "https://openalex.org/A5046972787",
+          "institutions": [
+            {
+              "name": "All India Institute of Medical Sciences Rishikesh",
+              "ror": "https://ror.org/05qjwb041",
+              "country_code": null
+            }
+          ]
+        },
+        {
+          "name": "Varshney S",
+          "order": 4,
+          "openalex_author_id": "https://openalex.org/A5075840413",
+          "institutions": [
+            {
+              "name": "All India Institute of Medical Sciences Rishikesh",
+              "ror": "https://ror.org/05qjwb041",
+              "country_code": null
+            }
+          ]
+        },
+        {
+          "name": "Mohanty A",
+          "order": 5,
+          "openalex_author_id": "https://openalex.org/A5085331777",
+          "institutions": [
+            {
+              "name": "All India Institute of Medical Sciences Rishikesh",
+              "ror": "https://ror.org/05qjwb041",
+              "country_code": null
+            }
+          ]
+        },
+        {
+          "name": "Gupta P",
+          "order": 6,
+          "openalex_author_id": "https://openalex.org/A5032836009",
+          "institutions": [
+            {
+              "name": "All India Institute of Medical Sciences Rishikesh",
+              "ror": "https://ror.org/05qjwb041",
+              "country_code": null
+            }
+          ]
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W3016961389",
+        "cited_by_count": 2,
+        "is_retracted": false,
+        "concepts": [
+          "Myiasis",
+          "Medicine",
+          "Concomitant",
+          "Dermatology",
+          "Voriconazole",
+          "Surgery",
+          "Larva",
+          "Biology",
+          "Antifungal",
+          "Botany"
+        ]
+      },
+      "icite": {
+        "cited_by": [
+          39081689
+        ]
+      },
+      "citations": {
+        "value": 2,
+        "source_of_truth": "both",
+        "sources": {
+          "openalex": {
+            "value": 2,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": null,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "36452555",
+      "title": "Rhino-Orbito-Cerebral Mucormycosis: An Audit.",
+      "journal": "Indian journal of otolaryngology and head and neck surgery : official publication of the Association of Otolaryngologists of India",
+      "pub_year": 2022,
+      "doi": "10.1007/s12070-020-02033-2",
+      "authors": [
+        {
+          "name": "Saravanam PK",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5091245593",
+          "institutions": [
+            {
+              "name": "Sri Ramachandra Institute of Higher Education and Research",
+              "ror": "https://ror.org/0108gdg43",
+              "country_code": "IN"
+            }
+          ]
+        },
+        {
+          "name": "Thattarakkal VR",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5023707203",
+          "institutions": [
+            {
+              "name": "Sri Ramachandra Institute of Higher Education and Research",
+              "ror": "https://ror.org/0108gdg43",
+              "country_code": "IN"
+            }
+          ]
+        },
+        {
+          "name": "Arun A",
+          "order": 3,
+          "openalex_author_id": "https://openalex.org/A5103960158",
+          "institutions": [
+            {
+              "name": "Sri Ramachandra Institute of Higher Education and Research",
+              "ror": "https://ror.org/0108gdg43",
+              "country_code": "IN"
+            }
+          ]
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W3047815711",
+        "cited_by_count": 7,
+        "is_retracted": false,
+        "concepts": [
+          "Medicine",
+          "Mucormycosis",
+          "Radiological weapon",
+          "Otorhinolaryngology",
+          "Medical record",
+          "Retrospective cohort study",
+          "Audit",
+          "Histopathology",
+          "Disease",
+          "Observational study",
+          "Diabetes mellitus",
+          "Pediatrics",
+          "Emergency medicine",
+          "Surgery",
+          "General surgery",
+          "Internal medicine",
+          "Pathology",
+          "Management",
+          "Economics",
+          "Endocrinology"
+        ]
+      },
+      "icite": {
+        "cited_by": [
+          38153685,
+          37809164,
+          38116989,
+          39559007
+        ]
+      },
+      "citations": {
+        "value": 7,
+        "source_of_truth": "both",
+        "sources": {
+          "openalex": {
+            "value": 7,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": null,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "36267508",
+      "title": "Risk factors for cardiovascular disease in a healthy young population: Family matters.",
+      "journal": "Medical journal, Armed Forces India",
+      "pub_year": 2022,
+      "doi": "10.1016/j.mjafi.2020.07.002",
+      "authors": [
+        {
+          "name": "Kataria N",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5005491567",
+          "institutions": [
+            {
+              "name": "Armed Forces Medical College",
+              "ror": "https://ror.org/05g6w6j42",
+              "country_code": "IN"
+            }
+          ]
+        },
+        {
+          "name": "Panda A",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5084669994",
+          "institutions": [
+            {
+              "name": "Armed Forces Medical College",
+              "ror": "https://ror.org/05g6w6j42",
+              "country_code": "IN"
+            }
+          ]
+        },
+        {
+          "name": "Singh S",
+          "order": 3,
+          "openalex_author_id": "https://openalex.org/A5101721737",
+          "institutions": [
+            {
+              "name": "All India Institute of Medical Sciences Raipur",
+              "ror": "https://ror.org/02ys8pq62",
+              "country_code": "IN"
+            },
+            {
+              "name": "All India Institute of Medical Sciences Rishikesh",
+              "ror": "https://ror.org/05qjwb041",
+              "country_code": null
+            }
+          ]
+        },
+        {
+          "name": "Patrikar S",
+          "order": 4,
+          "openalex_author_id": "https://openalex.org/A5035571091",
+          "institutions": [
+            {
+              "name": "Armed Forces Medical College",
+              "ror": "https://ror.org/05g6w6j42",
+              "country_code": "IN"
+            }
+          ]
+        },
+        {
+          "name": "Sampath S",
+          "order": 5,
+          "openalex_author_id": "https://openalex.org/A5048960458",
+          "institutions": [
+            {
+              "name": "Command Hospital",
+              "ror": "https://ror.org/01v16x378",
+              "country_code": "IN"
+            }
+          ]
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W3082793732",
+        "cited_by_count": 4,
+        "is_retracted": false,
+        "concepts": [
+          "Medicine",
+          "Family history",
+          "Blood pressure",
+          "Internal medicine",
+          "Anthropometry",
+          "Diabetes mellitus",
+          "Population",
+          "Diastole",
+          "High-density lipoprotein",
+          "Risk factor",
+          "Endocrinology",
+          "Cardiology",
+          "Cholesterol",
+          "Environmental health"
+        ]
+      },
+      "icite": {
+        "cited_by": [
+          38464373,
+          39846696
+        ]
+      },
+      "citations": {
+        "value": 4,
+        "source_of_truth": "both",
+        "sources": {
+          "openalex": {
+            "value": 4,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": null,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "36147425",
+      "title": "Acanthosis nigricans in Insulinoma: Reversible experiments of the nature.",
+      "journal": "Medical journal, Armed Forces India",
+      "pub_year": 2022,
+      "doi": "10.1016/j.mjafi.2019.06.002",
+      "authors": [
+        {
+          "name": "Danda VSR",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5005052062",
+          "institutions": [
+            {
+              "name": "Gandhi Medical College & Hospital",
+              "ror": "https://ror.org/021pyej66",
+              "country_code": "IN"
+            }
+          ]
+        },
+        {
+          "name": "Srinivas Rao P",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5112476240",
+          "institutions": [
+            {
+              "name": "Gandhi Medical College & Hospital",
+              "ror": "https://ror.org/021pyej66",
+              "country_code": "IN"
+            }
+          ]
+        },
+        {
+          "name": "Konda C",
+          "order": 3,
+          "openalex_author_id": "https://openalex.org/A5010343746",
+          "institutions": [
+            {
+              "name": "Gandhi Medical College & Hospital",
+              "ror": "https://ror.org/021pyej66",
+              "country_code": "IN"
+            }
+          ]
+        },
+        {
+          "name": "Lodha P",
+          "order": 4,
+          "openalex_author_id": "https://openalex.org/A5085750522",
+          "institutions": [
+            {
+              "name": "Gandhi Medical College & Hospital",
+              "ror": "https://ror.org/021pyej66",
+              "country_code": "IN"
+            }
+          ]
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W2980831668",
+        "cited_by_count": 1,
+        "is_retracted": false,
+        "concepts": [
+          "Acanthosis nigricans",
+          "Insulinoma",
+          "Medicine",
+          "Insulin resistance",
+          "Hyperinsulinemia",
+          "Insulin",
+          "Blood pressure",
+          "Hyperinsulinism",
+          "Internal medicine",
+          "Endocrinology",
+          "Dermatology"
+        ]
+      },
+      "icite": {
+        "cited_by": null
+      },
+      "citations": {
+        "value": 1,
+        "source_of_truth": "reconciled",
+        "sources": {
+          "openalex": {
+            "value": 1,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": 0,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 1
+      }
+    },
+    {
+      "pmid": "36147423",
+      "title": "Prevalence and severity of coronal and radicular caries among patients with type 2 diabetes mellitus: A cross sectional study.",
+      "journal": "Medical journal, Armed Forces India",
+      "pub_year": 2022,
+      "doi": "10.1016/j.mjafi.2020.09.012",
+      "authors": [
+        {
+          "name": "Varughese A",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5025478415",
+          "institutions": [
+            {
+              "name": "Amrita Vishwa Vidyapeetham",
+              "ror": "https://ror.org/03am10p12",
+              "country_code": "IN"
+            }
+          ]
+        },
+        {
+          "name": "Kavitha R",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5113702724",
+          "institutions": [
+            {
+              "name": "Amrita Vishwa Vidyapeetham",
+              "ror": "https://ror.org/03am10p12",
+              "country_code": "IN"
+            }
+          ]
+        },
+        {
+          "name": "Sravan Kumar Y",
+          "order": 3,
+          "openalex_author_id": "https://openalex.org/A5004567843",
+          "institutions": [
+            {
+              "name": "Amrita Vishwa Vidyapeetham",
+              "ror": "https://ror.org/03am10p12",
+              "country_code": "IN"
+            }
+          ]
+        },
+        {
+          "name": "Venkitachalam R",
+          "order": 4,
+          "openalex_author_id": "https://openalex.org/A5091367077",
+          "institutions": [
+            {
+              "name": "Amrita Vishwa Vidyapeetham",
+              "ror": "https://ror.org/03am10p12",
+              "country_code": "IN"
+            }
+          ]
+        },
+        {
+          "name": "Menon AS",
+          "order": 5,
+          "openalex_author_id": "https://openalex.org/A5025994778",
+          "institutions": [
+            {
+              "name": "Amrita Institute of Medical Sciences and Research Centre",
+              "ror": "https://ror.org/05ahcwz21",
+              "country_code": "IN"
+            }
+          ]
+        },
+        {
+          "name": "Francis PT",
+          "order": 6,
+          "openalex_author_id": "https://openalex.org/A5051635855",
+          "institutions": [
+            {
+              "name": "Amrita Institute of Medical Sciences and Research Centre",
+              "ror": "https://ror.org/05ahcwz21",
+              "country_code": "IN"
+            }
+          ]
+        },
+        {
+          "name": "Haridas K",
+          "order": 7,
+          "openalex_author_id": "https://openalex.org/A5112338545",
+          "institutions": [
+            {
+              "name": "Amrita Vishwa Vidyapeetham",
+              "ror": "https://ror.org/03am10p12",
+              "country_code": "IN"
+            }
+          ]
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W3111385970",
+        "cited_by_count": 5,
+        "is_retracted": false,
+        "concepts": [
+          "Medicine",
+          "Coronal plane",
+          "Diabetes mellitus",
+          "Dentistry",
+          "Root caries",
+          "Internal medicine",
+          "Cross-sectional study",
+          "Pathology",
+          "Radiology",
+          "Endocrinology"
+        ]
+      },
+      "icite": {
+        "cited_by": [
+          37378745,
+          37403050,
+          37537218
+        ]
+      },
+      "citations": {
+        "value": 5,
+        "source_of_truth": "both",
+        "sources": {
+          "openalex": {
+            "value": 5,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": null,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "40690581",
+      "title": "Challenges of Diabetes Management and Medication Reconciliation.",
+      "journal": "",
+      "pub_year": 2019,
+      "doi": null,
+      "authors": [
+        {
+          "name": "Lee S",
+          "order": 1
+        },
+        {
+          "name": "Molla M",
+          "order": 2
+        }
+      ],
+      "citations": null
+    },
+    {
+      "pmid": "35712438",
+      "title": "Diabetic Maxillary Osteomyelitis: A Worrisome Vulnerability-Our Experience.",
+      "journal": "Journal of maxillofacial and oral surgery",
+      "pub_year": 2022,
+      "doi": "10.1007/s12663-020-01371-6",
+      "authors": [
+        {
+          "name": "Khandelwal P",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5024390159",
+          "institutions": []
+        },
+        {
+          "name": "Saluja H",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5057539110",
+          "institutions": []
+        },
+        {
+          "name": "Shah S",
+          "order": 3,
+          "openalex_author_id": "https://openalex.org/A5044127475",
+          "institutions": []
+        },
+        {
+          "name": "Dadhich A",
+          "order": 4,
+          "openalex_author_id": "https://openalex.org/A5110709917",
+          "institutions": []
+        },
+        {
+          "name": "Hajira N",
+          "order": 5,
+          "openalex_author_id": "https://openalex.org/A5039033230",
+          "institutions": [
+            {
+              "name": "Pravara Institute of Medical Sciences",
+              "ror": "https://ror.org/02y0wc381",
+              "country_code": "IN"
+            }
+          ]
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W3018938889",
+        "cited_by_count": 9,
+        "is_retracted": false,
+        "concepts": [
+          "Medicine",
+          "Oral and maxillofacial surgery",
+          "Otorhinolaryngology",
+          "Osteomyelitis",
+          "Dentistry",
+          "Plastic surgery",
+          "Vulnerability (computing)",
+          "Head and neck surgery",
+          "Surgery",
+          "Orthodontics",
+          "Computer security",
+          "Computer science"
+        ]
+      },
+      "icite": {
+        "cited_by": [
+          36777925,
+          33431470,
+          37848069,
+          38601236,
+          34026593
+        ]
+      },
+      "citations": {
+        "value": 9,
+        "source_of_truth": "both",
+        "sources": {
+          "openalex": {
+            "value": 9,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": null,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "35702178",
+      "title": "Parenting and the Development of Impulse Control in Youth with Type 1 Diabetes: The Mediating Role of Negative Affect.",
+      "journal": "Applied developmental science",
+      "pub_year": 2022,
+      "doi": "10.1080/10888691.2019.1700797",
+      "authors": [
+        {
+          "name": "Silva K",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5064623968",
+          "institutions": [
+            {
+              "name": "Children's Hospital of Philadelphia",
+              "ror": "https://ror.org/01z7r7q48",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "Miller VA",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5077260599",
+          "institutions": [
+            {
+              "name": "University of Pennsylvania",
+              "ror": "https://ror.org/00b30xv10",
+              "country_code": "US"
+            }
+          ]
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W2996551955",
+        "cited_by_count": 0,
+        "is_retracted": false,
+        "concepts": [
+          "Impulse control",
+          "Psychology",
+          "Impulsivity",
+          "Coercion (linguistics)",
+          "Psychological intervention",
+          "Affect (linguistics)",
+          "Developmental psychology",
+          "Autonomy",
+          "Impulse (physics)",
+          "Clinical psychology",
+          "Psychiatry",
+          "Linguistics",
+          "Philosophy",
+          "Physics",
+          "Communication",
+          "Quantum mechanics",
+          "Political science",
+          "Law"
+        ]
+      },
+      "icite": {
+        "cited_by": null
+      },
+      "citations": {
+        "value": 0,
+        "source_of_truth": "reconciled",
+        "sources": {
+          "openalex": {
+            "value": 0,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": 0,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "26937548",
+      "title": "FGFR1-Related Hartsfield Syndrome.",
+      "journal": "",
+      "pub_year": 1993,
+      "doi": null,
+      "authors": [
+        {
+          "name": "Adam MP",
+          "order": 1
+        },
+        {
+          "name": "Feldman J",
+          "order": 2
+        },
+        {
+          "name": "Mirzaa GM",
+          "order": 3
+        },
+        {
+          "name": "Pagon RA",
+          "order": 4
+        },
+        {
+          "name": "Wallace SE",
+          "order": 5
+        },
+        {
+          "name": "Amemiya A",
+          "order": 6
+        },
+        {
+          "name": "Dhamija R",
+          "order": 7
+        },
+        {
+          "name": "Babovic-Vuksanovic D",
+          "order": 8
+        }
+      ],
+      "citations": null
+    },
+    {
+      "pmid": "35521019",
+      "title": "A Pharmacist-Driven Glycemic Control Protocol to Reduce the Rate of Severe Hypoglycemia in High-Risk Patients.",
+      "journal": "Hospital pharmacy",
+      "pub_year": 2022,
+      "doi": "10.1177/0018578720973891",
+      "authors": [
+        {
+          "name": "Cook CA",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5072756561",
+          "institutions": [
+            {
+              "name": "Fairview Ridges Hospital",
+              "ror": "https://ror.org/03xxy5a58",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "Vakayil V",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5035771713",
+          "institutions": [
+            {
+              "name": "University of Minnesota",
+              "ror": "https://ror.org/017zqws13",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "Pribyl K",
+          "order": 3,
+          "openalex_author_id": "https://openalex.org/A5004158337",
+          "institutions": [
+            {
+              "name": "University of Minnesota",
+              "ror": "https://ror.org/017zqws13",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "Yerxa D",
+          "order": 4,
+          "openalex_author_id": "https://openalex.org/A5063074976",
+          "institutions": [
+            {
+              "name": "University of Minnesota",
+              "ror": "https://ror.org/017zqws13",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "Kriz J",
+          "order": 5,
+          "openalex_author_id": "https://openalex.org/A5045692796",
+          "institutions": [
+            {
+              "name": "Fairview Ridges Hospital",
+              "ror": "https://ror.org/03xxy5a58",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "Case A",
+          "order": 6,
+          "openalex_author_id": "https://openalex.org/A5087913731",
+          "institutions": [
+            {
+              "name": "Fairview Ridges Hospital",
+              "ror": "https://ror.org/03xxy5a58",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "Meisel S",
+          "order": 7,
+          "openalex_author_id": "https://openalex.org/A5015292040",
+          "institutions": [
+            {
+              "name": "Fairview Ridges Hospital",
+              "ror": "https://ror.org/03xxy5a58",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "Ho T",
+          "order": 8,
+          "openalex_author_id": "https://openalex.org/A5086163634",
+          "institutions": [
+            {
+              "name": "University of Minnesota",
+              "ror": "https://ror.org/017zqws13",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "Harmon JV",
+          "order": 9,
+          "openalex_author_id": "https://openalex.org/A5044504337",
+          "institutions": [
+            {
+              "name": "University of Minnesota",
+              "ror": "https://ror.org/017zqws13",
+              "country_code": "US"
+            }
+          ]
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W3108490160",
+        "cited_by_count": 6,
+        "is_retracted": false,
+        "concepts": [
+          "Medicine",
+          "Glycemic",
+          "Hypoglycemia",
+          "Pharmacist",
+          "Diabetes mellitus",
+          "Emergency medicine",
+          "Confidence interval",
+          "Clinical pharmacy",
+          "Protocol (science)",
+          "Internal medicine",
+          "Pharmacy",
+          "Family medicine",
+          "Endocrinology",
+          "Alternative medicine",
+          "Pathology"
+        ]
+      },
+      "icite": {
+        "cited_by": [
+          38934846,
+          37696492,
+          39544835,
+          36760580
+        ]
+      },
+      "citations": {
+        "value": 6,
+        "source_of_truth": "both",
+        "sources": {
+          "openalex": {
+            "value": 6,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": null,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "35521013",
+      "title": "Impact of a Clinical Pharmacist Intervention Program on the Follow-up of Type-2 Diabetic Patients.",
+      "journal": "Hospital pharmacy",
+      "pub_year": 2022,
+      "doi": "10.1177/0018578720973881",
+      "authors": [
+        {
+          "name": "Ebid AI",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5062887904",
+          "institutions": [
+            {
+              "name": "Helwan University",
+              "ror": "https://ror.org/00h55v928",
+              "country_code": "EG"
+            }
+          ]
+        },
+        {
+          "name": "Mobarez MA",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5004089999",
+          "institutions": [
+            {
+              "name": "Helwan University",
+              "ror": "https://ror.org/00h55v928",
+              "country_code": "EG"
+            }
+          ]
+        },
+        {
+          "name": "Ramadan RA",
+          "order": 3,
+          "openalex_author_id": "https://openalex.org/A5048851027",
+          "institutions": []
+        },
+        {
+          "name": "Mahmoud MA",
+          "order": 4,
+          "openalex_author_id": "https://openalex.org/A5023270768",
+          "institutions": [
+            {
+              "name": "Helwan University",
+              "ror": "https://ror.org/00h55v928",
+              "country_code": "EG"
+            }
+          ]
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W3109210591",
+        "cited_by_count": 5,
+        "is_retracted": false,
+        "concepts": [
+          "Medicine",
+          "Pharmacist",
+          "Intervention (counseling)",
+          "Clinical pharmacy",
+          "Type 2 diabetes",
+          "Family medicine",
+          "Intensive care medicine",
+          "Medical emergency",
+          "Diabetes mellitus",
+          "Nursing",
+          "Pharmacy",
+          "Endocrinology"
+        ]
+      },
+      "icite": {
+        "cited_by": [
+          38334280,
+          40357005,
+          39823444,
+          37461105
+        ]
+      },
+      "citations": {
+        "value": 5,
+        "source_of_truth": "both",
+        "sources": {
+          "openalex": {
+            "value": 5,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": null,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "35517882",
+      "title": "Type 2 Diabetes Mellitus Provokes Rat Immune Cells Recruitment into the Pulmonary Niche by Up-regulation of Endothelial Adhesion Molecules.",
+      "journal": "Advanced pharmaceutical bulletin",
+      "pub_year": 2022,
+      "doi": "10.34172/apb.2022.019",
+      "authors": [
+        {
+          "name": "Zarafshan E",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5087593290",
+          "institutions": [
+            {
+              "name": "Tabriz University of Medical Sciences",
+              "ror": "https://ror.org/04krpx645",
+              "country_code": "IR"
+            }
+          ]
+        },
+        {
+          "name": "Rahbarghazi R",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5081484085",
+          "institutions": [
+            {
+              "name": "Tabriz University of Medical Sciences",
+              "ror": "https://ror.org/04krpx645",
+              "country_code": "IR"
+            }
+          ]
+        },
+        {
+          "name": "Rezaie J",
+          "order": 3,
+          "openalex_author_id": "https://openalex.org/A5045532081",
+          "institutions": [
+            {
+              "name": "Urmia University of Medical Sciences",
+              "ror": "https://ror.org/03jbsdf87",
+              "country_code": null
+            },
+            {
+              "name": "Urmia University",
+              "ror": "https://ror.org/032fk0x53",
+              "country_code": "IR"
+            }
+          ]
+        },
+        {
+          "name": "Aslani MR",
+          "order": 4,
+          "openalex_author_id": "https://openalex.org/A5008648371",
+          "institutions": [
+            {
+              "name": "Ardabil University of Medical Sciences",
+              "ror": "https://ror.org/04n4dcv16",
+              "country_code": "IR"
+            }
+          ]
+        },
+        {
+          "name": "Saberianpour S",
+          "order": 5,
+          "openalex_author_id": "https://openalex.org/A5075692020",
+          "institutions": [
+            {
+              "name": "Tabriz University of Medical Sciences",
+              "ror": "https://ror.org/04krpx645",
+              "country_code": "IR"
+            },
+            {
+              "name": "Mashhad University of Medical Sciences",
+              "ror": "https://ror.org/04sfka033",
+              "country_code": "IR"
+            }
+          ]
+        },
+        {
+          "name": "Ahmadi M",
+          "order": 6,
+          "openalex_author_id": "https://openalex.org/A5064715562",
+          "institutions": [
+            {
+              "name": "Tabriz University of Medical Sciences",
+              "ror": "https://ror.org/04krpx645",
+              "country_code": "IR"
+            }
+          ]
+        },
+        {
+          "name": "Keyhanmanesh R",
+          "order": 7,
+          "openalex_author_id": "https://openalex.org/A5016660634",
+          "institutions": [
+            {
+              "name": "Tabriz University of Medical Sciences",
+              "ror": "https://ror.org/04krpx645",
+              "country_code": "IR"
+            }
+          ]
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W3095904191",
+        "cited_by_count": 8,
+        "is_retracted": false,
+        "concepts": [
+          "Medicine",
+          "VCAM-1",
+          "Diabetes mellitus",
+          "Type 2 Diabetes Mellitus",
+          "Internal medicine",
+          "Bronchoalveolar lavage",
+          "Pathological",
+          "H&E stain",
+          "Inflammation",
+          "Immune system",
+          "Endocrinology",
+          "ICAM-1",
+          "Lung",
+          "Pathology",
+          "Cell adhesion molecule",
+          "Immunology",
+          "Immunohistochemistry"
+        ]
+      },
+      "icite": {
+        "cited_by": [
+          39072526,
+          37255788,
+          38486170,
+          36923284,
+          35209844,
+          36335538
+        ]
+      },
+      "citations": {
+        "value": 8,
+        "source_of_truth": "both",
+        "sources": {
+          "openalex": {
+            "value": 8,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": null,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "35369620",
+      "title": "Assessment of the concentration of selected metalloproteinases (MMP-2, MMP-3, MMP-9 and MMP-13) in patients with ulcers as a complication of type 2 diabetes.",
+      "journal": "Postepy dermatologii i alergologii",
+      "pub_year": 2022,
+      "doi": "10.5114/ada.2020.100737",
+      "authors": [
+        {
+          "name": "Kupczyk D",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5057080493",
+          "institutions": [
+            {
+              "name": "Collegium Medicum in Bydgoszcz",
+              "ror": "https://ror.org/04c5jwj47",
+              "country_code": "PL"
+            },
+            {
+              "name": "Nicolaus Copernicus University",
+              "ror": "https://ror.org/0102mm775",
+              "country_code": "PL"
+            }
+          ]
+        },
+        {
+          "name": "Bilski R",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5006402596",
+          "institutions": [
+            {
+              "name": "Nicolaus Copernicus University",
+              "ror": "https://ror.org/0102mm775",
+              "country_code": "PL"
+            },
+            {
+              "name": "Collegium Medicum in Bydgoszcz",
+              "ror": "https://ror.org/04c5jwj47",
+              "country_code": "PL"
+            }
+          ]
+        },
+        {
+          "name": "Studziñska R",
+          "order": 3,
+          "openalex_author_id": "https://openalex.org/A5033601481",
+          "institutions": [
+            {
+              "name": "Nicolaus Copernicus University",
+              "ror": "https://ror.org/0102mm775",
+              "country_code": "PL"
+            },
+            {
+              "name": "Collegium Medicum in Bydgoszcz",
+              "ror": "https://ror.org/04c5jwj47",
+              "country_code": "PL"
+            }
+          ]
+        },
+        {
+          "name": "Woźniak A",
+          "order": 4,
+          "openalex_author_id": "https://openalex.org/A5041437201",
+          "institutions": [
+            {
+              "name": "Nicolaus Copernicus University",
+              "ror": "https://ror.org/0102mm775",
+              "country_code": "PL"
+            },
+            {
+              "name": "Collegium Medicum in Bydgoszcz",
+              "ror": "https://ror.org/04c5jwj47",
+              "country_code": "PL"
+            }
+          ]
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W3119587088",
+        "cited_by_count": 10,
+        "is_retracted": false,
+        "concepts": [
+          "Medicine",
+          "Matrix metalloproteinase",
+          "Diabetes mellitus",
+          "Complication",
+          "Type 2 diabetes",
+          "Basal (medicine)",
+          "Internal medicine",
+          "Type IV collagen",
+          "Gastroenterology",
+          "Wound healing",
+          "Surgery",
+          "Metalloproteinase",
+          "Endocrinology",
+          "Extracellular matrix",
+          "Laminin",
+          "Cell biology",
+          "Biology"
+        ]
+      },
+      "icite": {
+        "cited_by": [
+          38576768,
+          37798905,
+          36875064,
+          38295273,
+          36362386
+        ]
+      },
+      "citations": {
+        "value": 10,
+        "source_of_truth": "both",
+        "sources": {
+          "openalex": {
+            "value": 10,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": null,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "35253472",
+      "title": "Caregiver role development in chronic disease: A qualitative study of informal caregiving for veterans with diabetes.",
+      "journal": "Chronic illness",
+      "pub_year": 2022,
+      "doi": "10.1177/1742395320949633",
+      "authors": [
+        {
+          "name": "Fields B",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5073513266",
+          "institutions": [
+            {
+              "name": "VA Pittsburgh Healthcare System",
+              "ror": "https://ror.org/02qm18h86",
+              "country_code": "US"
+            },
+            {
+              "name": "University of Wisconsin–Madison",
+              "ror": "https://ror.org/01y2jtd41",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "Makaroun L",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5048026105",
+          "institutions": [
+            {
+              "name": "VA Pittsburgh Healthcare System",
+              "ror": "https://ror.org/02qm18h86",
+              "country_code": "US"
+            },
+            {
+              "name": "University of Pittsburgh",
+              "ror": "https://ror.org/01an3r305",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "Rodriguez KL",
+          "order": 3,
+          "openalex_author_id": "https://openalex.org/A5070625621",
+          "institutions": [
+            {
+              "name": "VA Pittsburgh Healthcare System",
+              "ror": "https://ror.org/02qm18h86",
+              "country_code": "US"
+            },
+            {
+              "name": "University of Pittsburgh",
+              "ror": "https://ror.org/01an3r305",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "Robinson C",
+          "order": 4,
+          "openalex_author_id": "https://openalex.org/A5010958585",
+          "institutions": [
+            {
+              "name": "VA Ann Arbor Healthcare System",
+              "ror": "https://ror.org/018txrr13",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "Forman J",
+          "order": 5,
+          "openalex_author_id": "https://openalex.org/A5056260009",
+          "institutions": [
+            {
+              "name": "VA Ann Arbor Healthcare System",
+              "ror": "https://ror.org/018txrr13",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "Rosland AM",
+          "order": 6,
+          "openalex_author_id": "https://openalex.org/A5006620042",
+          "institutions": [
+            {
+              "name": "VA Pittsburgh Healthcare System",
+              "ror": "https://ror.org/02qm18h86",
+              "country_code": "US"
+            },
+            {
+              "name": "University of Pittsburgh",
+              "ror": "https://ror.org/01an3r305",
+              "country_code": "US"
+            }
+          ]
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W3067971495",
+        "cited_by_count": 14,
+        "is_retracted": false,
+        "concepts": [
+          "Thematic analysis",
+          "Family caregivers",
+          "Qualitative research",
+          "Multiple Chronic Conditions",
+          "Gerontology",
+          "Chronic disease",
+          "Disease",
+          "Medicine",
+          "Diabetes management",
+          "Diabetes mellitus",
+          "Chronic condition",
+          "Disease management",
+          "Social support",
+          "Type 2 diabetes",
+          "Psychology",
+          "Family medicine",
+          "Psychotherapist",
+          "Social science",
+          "Pathology",
+          "Sociology",
+          "Parkinson's disease",
+          "Endocrinology"
+        ]
+      },
+      "icite": {
+        "cited_by": [
+          37644455,
+          37679694,
+          33247416,
+          40734729,
+          39555037,
+          36676672,
+          38820495,
+          38335020,
+          33295051,
+          40473284,
+          39906402
+        ]
+      },
+      "citations": {
+        "value": 14,
+        "source_of_truth": "both",
+        "sources": {
+          "openalex": {
+            "value": 14,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": null,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "35253463",
+      "title": "Diabetes Is Predictive of Postoperative Outcomes and Readmission Following Posterior Lumbar Fusion.",
+      "journal": "Global spine journal",
+      "pub_year": 2022,
+      "doi": "10.1177/2192568220948480",
+      "authors": [
+        {
+          "name": "Arrighi-Allisan AE",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5030548471",
+          "institutions": [
+            {
+              "name": "Icahn School of Medicine at Mount Sinai",
+              "ror": "https://ror.org/04a9tmd77",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "Neifert SN",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5048580400",
+          "institutions": [
+            {
+              "name": "Icahn School of Medicine at Mount Sinai",
+              "ror": "https://ror.org/04a9tmd77",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "Gal JS",
+          "order": 3,
+          "openalex_author_id": "https://openalex.org/A5035243691",
+          "institutions": [
+            {
+              "name": "Mount Sinai Hospital",
+              "ror": "https://ror.org/019jr0130",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "Zeldin L",
+          "order": 4,
+          "openalex_author_id": "https://openalex.org/A5004227523",
+          "institutions": [
+            {
+              "name": "Icahn School of Medicine at Mount Sinai",
+              "ror": "https://ror.org/04a9tmd77",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "Zimering JH",
+          "order": 5,
+          "openalex_author_id": "https://openalex.org/A5049792614",
+          "institutions": [
+            {
+              "name": "Mount Sinai Hospital",
+              "ror": "https://ror.org/019jr0130",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "Gilligan JT",
+          "order": 6,
+          "openalex_author_id": "https://openalex.org/A5078967758",
+          "institutions": [
+            {
+              "name": "Mount Sinai Hospital",
+              "ror": "https://ror.org/019jr0130",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "Deutsch BC",
+          "order": 7,
+          "openalex_author_id": "https://openalex.org/A5004312246",
+          "institutions": [
+            {
+              "name": "Icahn School of Medicine at Mount Sinai",
+              "ror": "https://ror.org/04a9tmd77",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "Snyder DJ",
+          "order": 8,
+          "openalex_author_id": "https://openalex.org/A5063916752",
+          "institutions": [
+            {
+              "name": "Icahn School of Medicine at Mount Sinai",
+              "ror": "https://ror.org/04a9tmd77",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "Nistal DA",
+          "order": 9,
+          "openalex_author_id": "https://openalex.org/A5015239361",
+          "institutions": [
+            {
+              "name": "Icahn School of Medicine at Mount Sinai",
+              "ror": "https://ror.org/04a9tmd77",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "Caridi JM",
+          "order": 10,
+          "openalex_author_id": "https://openalex.org/A5084071931",
+          "institutions": [
+            {
+              "name": "Mount Sinai Hospital",
+              "ror": "https://ror.org/019jr0130",
+              "country_code": "US"
+            }
+          ]
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W3049124614",
+        "cited_by_count": 8,
+        "is_retracted": false,
+        "concepts": [
+          "Medicine",
+          "Diabetes mellitus",
+          "Comorbidity",
+          "Intensive care unit",
+          "Perioperative",
+          "Internal medicine",
+          "Retrospective cohort study",
+          "Lumbar",
+          "Complication",
+          "Surgery",
+          "Endocrinology"
+        ]
+      },
+      "icite": {
+        "cited_by": [
+          38460815,
+          39399350,
+          39491749,
+          37101047,
+          39751814,
+          36040160,
+          34463136,
+          40648963,
+          38039534
+        ]
+      },
+      "citations": {
+        "value": 8,
+        "source_of_truth": "both",
+        "sources": {
+          "openalex": {
+            "value": 8,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": null,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "35251257",
+      "title": "Commentary: Predictors of diabetes distress among older persons with type 2 diabetes mellitus in Indonesia.",
+      "journal": "Journal of research in nursing : JRN",
+      "pub_year": 2021,
+      "doi": "10.1177/1744987120958835",
+      "authors": [
+        {
+          "name": "Carrier J",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5059352689",
+          "institutions": [
+            {
+              "name": "Cardiff University",
+              "ror": "https://ror.org/03kk7td41",
+              "country_code": "GB"
+            }
+          ]
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W3093189036",
+        "cited_by_count": 0,
+        "is_retracted": false,
+        "concepts": [
+          "Distress",
+          "Type 2 Diabetes Mellitus",
+          "Diabetes mellitus",
+          "Medicine",
+          "Gerontology",
+          "Type 2 diabetes",
+          "Clinical psychology",
+          "Endocrinology"
+        ]
+      },
+      "icite": {
+        "cited_by": null
+      },
+      "citations": {
+        "value": 0,
+        "source_of_truth": "reconciled",
+        "sources": {
+          "openalex": {
+            "value": 0,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": 0,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "35251256",
+      "title": "Predictors of diabetes distress among older persons with type 2 diabetes mellitus in Indonesia.",
+      "journal": "Journal of research in nursing : JRN",
+      "pub_year": 2021,
+      "doi": "10.1177/1744987120943936",
+      "authors": [
+        {
+          "name": "Ischaq Nabil Asshiddiqi M",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5027696133",
+          "institutions": [
+            {
+              "name": "Prince of Songkla University",
+              "ror": "https://ror.org/0575ycz84",
+              "country_code": "TH"
+            }
+          ]
+        },
+        {
+          "name": "Yodchai K",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5050647148",
+          "institutions": [
+            {
+              "name": "Prince of Songkla University",
+              "ror": "https://ror.org/0575ycz84",
+              "country_code": "TH"
+            }
+          ]
+        },
+        {
+          "name": "Taniwattananon P",
+          "order": 3,
+          "openalex_author_id": "https://openalex.org/A5026765948",
+          "institutions": [
+            {
+              "name": "Prince of Songkla University",
+              "ror": "https://ror.org/0575ycz84",
+              "country_code": "TH"
+            }
+          ]
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W3092677164",
+        "cited_by_count": 2,
+        "is_retracted": false,
+        "concepts": [
+          "Medicine",
+          "Distress",
+          "Diabetes mellitus",
+          "Type 2 Diabetes Mellitus",
+          "Outpatient clinic",
+          "Gerontology",
+          "Internal medicine",
+          "Clinical psychology",
+          "Endocrinology"
+        ]
+      },
+      "icite": {
+        "cited_by": null
+      },
+      "citations": {
+        "value": 2,
+        "source_of_truth": "reconciled",
+        "sources": {
+          "openalex": {
+            "value": 2,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": 0,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 2
+      }
+    },
+    {
+      "pmid": "35166209",
+      "title": "Application of Solidago chilensis and laser improved the repair of burns in diabetic rats.",
+      "journal": "Biomedical journal",
+      "pub_year": 2021,
+      "doi": "10.1016/j.bj.2020.05.014",
+      "authors": [
+        {
+          "name": "Moreira JAR",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5018010328",
+          "institutions": [
+            {
+              "name": "Centro Universitário Herminio Ometto de Araras",
+              "ror": "https://ror.org/04z7f4v54",
+              "country_code": "BR"
+            }
+          ]
+        },
+        {
+          "name": "Vasconcelos IC",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5070026760",
+          "institutions": [
+            {
+              "name": "Centro Universitário Herminio Ometto de Araras",
+              "ror": "https://ror.org/04z7f4v54",
+              "country_code": "BR"
+            }
+          ]
+        },
+        {
+          "name": "Fachi JL",
+          "order": 3,
+          "openalex_author_id": "https://openalex.org/A5013949680",
+          "institutions": [
+            {
+              "name": "Centro Universitário Herminio Ometto de Araras",
+              "ror": "https://ror.org/04z7f4v54",
+              "country_code": "BR"
+            }
+          ]
+        },
+        {
+          "name": "Theodoro V",
+          "order": 4,
+          "openalex_author_id": "https://openalex.org/A5057277688",
+          "institutions": [
+            {
+              "name": "Centro Universitário Herminio Ometto de Araras",
+              "ror": "https://ror.org/04z7f4v54",
+              "country_code": "BR"
+            }
+          ]
+        },
+        {
+          "name": "Dalia RA",
+          "order": 5,
+          "openalex_author_id": "https://openalex.org/A5012328124",
+          "institutions": [
+            {
+              "name": "Centro Universitário Herminio Ometto de Araras",
+              "ror": "https://ror.org/04z7f4v54",
+              "country_code": "BR"
+            }
+          ]
+        },
+        {
+          "name": "Aro AA",
+          "order": 6,
+          "openalex_author_id": "https://openalex.org/A5002359097",
+          "institutions": [
+            {
+              "name": "Centro Universitário Herminio Ometto de Araras",
+              "ror": "https://ror.org/04z7f4v54",
+              "country_code": "BR"
+            }
+          ]
+        },
+        {
+          "name": "Pimentel ER",
+          "order": 7,
+          "openalex_author_id": "https://openalex.org/A5113497859",
+          "institutions": [
+            {
+              "name": "Universidade Estadual de Campinas (UNICAMP)",
+              "ror": "https://ror.org/04wffgt70",
+              "country_code": "BR"
+            }
+          ]
+        },
+        {
+          "name": "Gaspi FOG",
+          "order": 8,
+          "openalex_author_id": "https://openalex.org/A5021275478",
+          "institutions": [
+            {
+              "name": "Centro Universitário Herminio Ometto de Araras",
+              "ror": "https://ror.org/04z7f4v54",
+              "country_code": "BR"
+            }
+          ]
+        },
+        {
+          "name": "Andrade TAM",
+          "order": 9,
+          "openalex_author_id": "https://openalex.org/A5060376083",
+          "institutions": [
+            {
+              "name": "Centro Universitário Herminio Ometto de Araras",
+              "ror": "https://ror.org/04z7f4v54",
+              "country_code": "BR"
+            }
+          ]
+        },
+        {
+          "name": "Amaral MEC",
+          "order": 10,
+          "openalex_author_id": "https://openalex.org/A5030505262",
+          "institutions": [
+            {
+              "name": "Centro Universitário Herminio Ometto de Araras",
+              "ror": "https://ror.org/04z7f4v54",
+              "country_code": "BR"
+            }
+          ]
+        },
+        {
+          "name": "Esquisatto MAM",
+          "order": 11,
+          "openalex_author_id": "https://openalex.org/A5052032491",
+          "institutions": [
+            {
+              "name": "Centro Universitário Herminio Ometto de Araras",
+              "ror": "https://ror.org/04z7f4v54",
+              "country_code": "BR"
+            }
+          ]
+        },
+        {
+          "name": "Mendonça FAS",
+          "order": 12,
+          "openalex_author_id": "https://openalex.org/A5103003120",
+          "institutions": [
+            {
+              "name": "Centro Universitário Herminio Ometto de Araras",
+              "ror": "https://ror.org/04z7f4v54",
+              "country_code": "BR"
+            }
+          ]
+        },
+        {
+          "name": "Santos GMT",
+          "order": 13,
+          "openalex_author_id": "https://openalex.org/A5043107598",
+          "institutions": [
+            {
+              "name": "Centro Universitário Herminio Ometto de Araras",
+              "ror": "https://ror.org/04z7f4v54",
+              "country_code": "BR"
+            }
+          ]
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W3030618662",
+        "cited_by_count": 7,
+        "is_retracted": false,
+        "concepts": [
+          "Angiogenesis",
+          "Medicine",
+          "Wound healing",
+          "Laser therapy",
+          "Laser",
+          "Severe burn",
+          "Surgery",
+          "Chemistry",
+          "Internal medicine",
+          "Physics",
+          "Optics"
+        ]
+      },
+      "icite": {
+        "cited_by": [
+          38408325,
+          37567532,
+          34942391,
+          35867121,
+          38212535
+        ]
+      },
+      "citations": {
+        "value": 7,
+        "source_of_truth": "both",
+        "sources": {
+          "openalex": {
+            "value": 7,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": null,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "35143739",
+      "title": "The effect of adenosine monophosphate-activated protein kinase on lipolysis in adipose tissue: an historical and comprehensive review.",
+      "journal": "Archives of physiology and biochemistry",
+      "pub_year": 2022,
+      "doi": "10.1080/13813455.2019.1661495",
+      "authors": [
+        {
+          "name": "Boone-Villa D",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5026460421",
+          "institutions": [
+            {
+              "name": "Universidad Autónoma de Piedras Negras",
+              "ror": "https://ror.org/05r754v60",
+              "country_code": "MX"
+            },
+            {
+              "name": "Universidad Autónoma de Coahuila",
+              "ror": "https://ror.org/00dpnh189",
+              "country_code": "MX"
+            }
+          ]
+        },
+        {
+          "name": "Ventura-Sobrevilla J",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5024541791",
+          "institutions": [
+            {
+              "name": "Universidad Autónoma de Coahuila",
+              "ror": "https://ror.org/00dpnh189",
+              "country_code": "MX"
+            },
+            {
+              "name": "Universidad Autónoma de Piedras Negras",
+              "ror": "https://ror.org/05r754v60",
+              "country_code": "MX"
+            }
+          ]
+        },
+        {
+          "name": "Aguilera-Méndez A",
+          "order": 3,
+          "openalex_author_id": "https://openalex.org/A5035692349",
+          "institutions": [
+            {
+              "name": "Universidad Michoacana de San Nicolás de Hidalgo",
+              "ror": "https://ror.org/00z0kq074",
+              "country_code": "MX"
+            }
+          ]
+        },
+        {
+          "name": "Jiménez-Villarreal J",
+          "order": 4,
+          "openalex_author_id": "https://openalex.org/A5044621303",
+          "institutions": [
+            {
+              "name": "Universidad Autónoma de Piedras Negras",
+              "ror": "https://ror.org/05r754v60",
+              "country_code": "MX"
+            },
+            {
+              "name": "Universidad Autónoma de Coahuila",
+              "ror": "https://ror.org/00dpnh189",
+              "country_code": "MX"
+            }
+          ]
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W2972079592",
+        "cited_by_count": 3,
+        "is_retracted": false,
+        "concepts": [
+          "Lipolysis",
+          "AMPK",
+          "Adipose tissue",
+          "Protein kinase A",
+          "Adenosine",
+          "AMP-activated protein kinase",
+          "Endocrinology",
+          "Adenosine monophosphate",
+          "Internal medicine",
+          "Chemistry",
+          "Kinase",
+          "Biology",
+          "Cell biology",
+          "Medicine"
+        ]
+      },
+      "icite": {
+        "cited_by": [
+          36176469,
+          39491172
+        ]
+      },
+      "citations": {
+        "value": 3,
+        "source_of_truth": "both",
+        "sources": {
+          "openalex": {
+            "value": 3,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": null,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "35126008",
+      "title": "Investigation of body mass index, insulin resistance and diabetes in patients with hirsutism.",
+      "journal": "Postepy dermatologii i alergologii",
+      "pub_year": 2021,
+      "doi": "10.5114/ada.2020.98132",
+      "authors": [
+        {
+          "name": "Lumezi BG",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5011580123",
+          "institutions": [
+            {
+              "name": "University of Prishtina",
+              "ror": "https://ror.org/05t3p2g92",
+              "country_code": "XK"
+            }
+          ]
+        },
+        {
+          "name": "Berisha VL",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5090206795",
+          "institutions": [
+            {
+              "name": "University of Prishtina",
+              "ror": "https://ror.org/05t3p2g92",
+              "country_code": "XK"
+            }
+          ]
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W3097678206",
+        "cited_by_count": 5,
+        "is_retracted": false,
+        "concepts": [
+          "hirsutism",
+          "Medicine",
+          "Insulin resistance",
+          "Internal medicine",
+          "Hyperandrogenism",
+          "Endocrinology",
+          "Polycystic ovary",
+          "Overweight",
+          "Sex hormone-binding globulin",
+          "Body mass index",
+          "Diabetes mellitus",
+          "Free androgen index",
+          "Obesity",
+          "Population",
+          "Dehydroepiandrosterone sulfate",
+          "Insulin",
+          "Testosterone (patch)",
+          "Hormone",
+          "Androgen",
+          "Environmental health"
+        ]
+      },
+      "icite": {
+        "cited_by": [
+          36919048,
+          40125240,
+          38049279,
+          38049282
+        ]
+      },
+      "citations": {
+        "value": 5,
+        "source_of_truth": "both",
+        "sources": {
+          "openalex": {
+            "value": 5,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": null,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "35125691",
+      "title": "Association of Promoter Methylation and Expression of Inflammatory Genes IL-6 and TNF-α with the Risk of Coronary Artery Disease in Diabetic and Obese Subjects among Asian Indians.",
+      "journal": "Indian journal of clinical biochemistry : IJCB",
+      "pub_year": 2022,
+      "doi": "10.1007/s12291-020-00932-3",
+      "authors": [
+        {
+          "name": "Indumathi B",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5026319728",
+          "institutions": [
+            {
+              "name": "Nizam's Institute of Medical Sciences",
+              "ror": "https://ror.org/01wjz9118",
+              "country_code": "IN"
+            }
+          ]
+        },
+        {
+          "name": "Oruganti SS",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5067717843",
+          "institutions": [
+            {
+              "name": "Nizam's Institute of Medical Sciences",
+              "ror": "https://ror.org/01wjz9118",
+              "country_code": "IN"
+            }
+          ]
+        },
+        {
+          "name": "Sreenu B",
+          "order": 3,
+          "openalex_author_id": "https://openalex.org/A5049835843",
+          "institutions": [
+            {
+              "name": "Nizam's Institute of Medical Sciences",
+              "ror": "https://ror.org/01wjz9118",
+              "country_code": "IN"
+            }
+          ]
+        },
+        {
+          "name": "Kutala VK",
+          "order": 4,
+          "openalex_author_id": "https://openalex.org/A5002372176",
+          "institutions": [
+            {
+              "name": "Nizam's Institute of Medical Sciences",
+              "ror": "https://ror.org/01wjz9118",
+              "country_code": "IN"
+            }
+          ]
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W3101328186",
+        "cited_by_count": 4,
+        "is_retracted": false,
+        "concepts": [
+          "Medicine",
+          "Methylation",
+          "Coronary artery disease",
+          "Disease",
+          "Internal medicine",
+          "Diabetes mellitus",
+          "Gene",
+          "Endocrinology",
+          "Biology",
+          "Genetics"
+        ]
+      },
+      "icite": {
+        "cited_by": [
+          40093012,
+          38405061,
+          38572445,
+          38490340
+        ]
+      },
+      "citations": {
+        "value": 4,
+        "source_of_truth": "both",
+        "sources": {
+          "openalex": {
+            "value": 4,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": null,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "35115137",
+      "title": "Diabetic cardiomyopathy.",
+      "journal": "Revista clinica espanola",
+      "pub_year": 2022,
+      "doi": "10.1016/j.rceng.2019.10.012",
+      "authors": [
+        {
+          "name": "Lorenzo-Almorós A",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5050022373",
+          "institutions": [
+            {
+              "name": "Hospital Universitario Fundación Jiménez Díaz",
+              "ror": "https://ror.org/049nvyb15",
+              "country_code": "ES"
+            }
+          ]
+        },
+        {
+          "name": "Cepeda-Rodrigo JM",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5112201597",
+          "institutions": [
+            {
+              "name": "Hospital Vega Baja",
+              "ror": "https://ror.org/03tfy3c27",
+              "country_code": "ES"
+            }
+          ]
+        },
+        {
+          "name": "Lorenzo Ó",
+          "order": 3,
+          "openalex_author_id": "https://openalex.org/A5036159024",
+          "institutions": [
+            {
+              "name": "Hospital Universitario Fundación Jiménez Díaz",
+              "ror": "https://ror.org/049nvyb15",
+              "country_code": "ES"
+            },
+            {
+              "name": "Universidad Autónoma de Madrid",
+              "ror": "https://ror.org/01cby8j38",
+              "country_code": "ES"
+            }
+          ]
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W4210785361",
+        "cited_by_count": 51,
+        "is_retracted": false,
+        "concepts": [
+          "Diabetic cardiomyopathy",
+          "Cardiomyopathy",
+          "Medicine",
+          "Diabetes mellitus",
+          "Disease",
+          "Heart failure",
+          "Cardiology",
+          "Internal medicine",
+          "Heart disease",
+          "Intensive care medicine",
+          "Endocrinology"
+        ]
+      },
+      "icite": {
+        "cited_by": [
+          37842898,
+          38224346,
+          40450345,
+          40727576,
+          40384847,
+          38393526,
+          37778481,
+          36726736,
+          37124222,
+          39706389,
+          39896344,
+          40373162,
+          37056985,
+          40004844,
+          36568261,
+          40497954,
+          39335666,
+          38818468,
+          39853716,
+          37109205,
+          38951895,
+          38081612,
+          38672121,
+          36147470,
+          39326140,
+          38442448,
+          40109623,
+          40540145,
+          38397785,
+          37849730,
+          40290429,
+          40033927,
+          39415664,
+          39753984,
+          39140033,
+          40682645,
+          40800606,
+          37586299,
+          35784531,
+          36698087,
+          40437131,
+          38516000,
+          38705920,
+          37233681,
+          37862970,
+          38310481,
+          36836121,
+          38256155,
+          32547406
+        ]
+      },
+      "citations": {
+        "value": 51,
+        "source_of_truth": "both",
+        "sources": {
+          "openalex": {
+            "value": 51,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": null,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "35111536",
+      "title": "Comparative study of the usefulness of a novel insulin therapy in Japanese patients with Type 2 diabetes for concomitant use of an oral antidiabetic agent with twice-daily dosing either of insulin aspart, biphasic insulin aspart-30, or insulin detemir: Two times Insulin injection Combined with oral therapy Efficacy Study (TWICE study).",
+      "journal": "Fujita medical journal",
+      "pub_year": 2021,
+      "doi": "10.20407/fmj.2019-023",
+      "authors": [
+        {
+          "name": "Itoh M",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5109967081",
+          "institutions": [
+            {
+              "name": "Fujita Health University",
+              "ror": "https://ror.org/046f6cx68",
+              "country_code": "JP"
+            }
+          ]
+        },
+        {
+          "name": "Suzuki A",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5026823194",
+          "institutions": [
+            {
+              "name": "Fujita Health University",
+              "ror": "https://ror.org/046f6cx68",
+              "country_code": "JP"
+            }
+          ]
+        },
+        {
+          "name": "Katoh T",
+          "order": 3,
+          "openalex_author_id": "https://openalex.org/A5086199372",
+          "institutions": [
+            {
+              "name": "Toyota Kosei Hospital",
+              "ror": "https://ror.org/04fc5qm41",
+              "country_code": "JP"
+            },
+            {
+              "name": "Konan Kosei Hospital",
+              "ror": "https://ror.org/00178zy73",
+              "country_code": "JP"
+            }
+          ]
+        },
+        {
+          "name": "Sawai Y",
+          "order": 4,
+          "openalex_author_id": "https://openalex.org/A5108459414",
+          "institutions": [
+            {
+              "name": "Konan Kosei Hospital",
+              "ror": "https://ror.org/00178zy73",
+              "country_code": "JP"
+            },
+            {
+              "name": "Toyota Kosei Hospital",
+              "ror": "https://ror.org/04fc5qm41",
+              "country_code": "JP"
+            }
+          ]
+        },
+        {
+          "name": "Asano S",
+          "order": 5,
+          "openalex_author_id": "https://openalex.org/A5057706099",
+          "institutions": [
+            {
+              "name": "Toyokawa City Hospital",
+              "ror": "https://ror.org/00rsqd019",
+              "country_code": "JP"
+            }
+          ]
+        },
+        {
+          "name": "Imamura S",
+          "order": 6,
+          "openalex_author_id": "https://openalex.org/A5110155042",
+          "institutions": [
+            {
+              "name": "Toyokawa City Hospital",
+              "ror": "https://ror.org/00rsqd019",
+              "country_code": "JP"
+            }
+          ]
+        },
+        {
+          "name": "Hayashi Y",
+          "order": 7,
+          "openalex_author_id": "https://openalex.org/A5106223539",
+          "institutions": [
+            {
+              "name": "Kariya Toyota General Hospital",
+              "ror": "https://ror.org/00vzw9736",
+              "country_code": "JP"
+            }
+          ]
+        },
+        {
+          "name": "Goto S",
+          "order": 8,
+          "openalex_author_id": "https://openalex.org/A5055613619",
+          "institutions": [
+            {
+              "name": "Nagoya Memorial Hospital",
+              "ror": "https://ror.org/02a2vbq68",
+              "country_code": "JP"
+            }
+          ]
+        },
+        {
+          "name": "Takahashi N",
+          "order": 9,
+          "openalex_author_id": "https://openalex.org/A5105455026",
+          "institutions": []
+        },
+        {
+          "name": "Kawabe T",
+          "order": 10,
+          "openalex_author_id": "https://openalex.org/A5110768365",
+          "institutions": []
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W3117032243",
+        "cited_by_count": 1,
+        "is_retracted": false,
+        "concepts": [
+          "Insulin detemir",
+          "Insulin aspart",
+          "Medicine",
+          "Hypoglycemia",
+          "Insulin",
+          "Concomitant",
+          "Diabetes mellitus",
+          "Type 2 diabetes",
+          "Internal medicine",
+          "Randomized controlled trial",
+          "Endocrinology",
+          "Insulin glargine"
+        ]
+      },
+      "icite": {
+        "cited_by": [
+          38894842
+        ]
+      },
+      "citations": {
+        "value": 1,
+        "source_of_truth": "both",
+        "sources": {
+          "openalex": {
+            "value": 1,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": null,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "37593533",
+      "title": "Clinical characteristics and outcomes of 85 intensive care patients with Covid-19 in South London: A single centre observational study.",
+      "journal": "Journal of the Intensive Care Society",
+      "pub_year": 2022,
+      "doi": "10.1177/1751143720971541",
+      "authors": [
+        {
+          "name": "Isted A",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5004062793",
+          "institutions": [
+            {
+              "name": "University Hospital Lewisham",
+              "ror": "https://ror.org/04vgz8j88",
+              "country_code": "GB"
+            }
+          ]
+        },
+        {
+          "name": "McDonnell AJ",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5051701208",
+          "institutions": [
+            {
+              "name": "University Hospital Lewisham",
+              "ror": "https://ror.org/04vgz8j88",
+              "country_code": "GB"
+            }
+          ]
+        },
+        {
+          "name": "Jones E",
+          "order": 3,
+          "openalex_author_id": "https://openalex.org/A5005652834",
+          "institutions": [
+            {
+              "name": "University Hospital Lewisham",
+              "ror": "https://ror.org/04vgz8j88",
+              "country_code": "GB"
+            }
+          ]
+        },
+        {
+          "name": "Grundy T",
+          "order": 4,
+          "openalex_author_id": "https://openalex.org/A5090816075",
+          "institutions": [
+            {
+              "name": "University Hospital Lewisham",
+              "ror": "https://ror.org/04vgz8j88",
+              "country_code": "GB"
+            }
+          ]
+        },
+        {
+          "name": "Jeyabraba S",
+          "order": 5,
+          "openalex_author_id": "https://openalex.org/A5109411354",
+          "institutions": [
+            {
+              "name": "University Hospital Lewisham",
+              "ror": "https://ror.org/04vgz8j88",
+              "country_code": "GB"
+            }
+          ]
+        },
+        {
+          "name": "Ali TO",
+          "order": 6,
+          "openalex_author_id": "https://openalex.org/A5109241111",
+          "institutions": [
+            {
+              "name": "University Hospital Lewisham",
+              "ror": "https://ror.org/04vgz8j88",
+              "country_code": "GB"
+            }
+          ]
+        },
+        {
+          "name": "Khorasanee R",
+          "order": 7,
+          "openalex_author_id": "https://openalex.org/A5109594693",
+          "institutions": [
+            {
+              "name": "University Hospital Lewisham",
+              "ror": "https://ror.org/04vgz8j88",
+              "country_code": "GB"
+            }
+          ]
+        },
+        {
+          "name": "Bhalla A",
+          "order": 8,
+          "openalex_author_id": "https://openalex.org/A5042310068",
+          "institutions": [
+            {
+              "name": "University Hospital Lewisham",
+              "ror": "https://ror.org/04vgz8j88",
+              "country_code": "GB"
+            }
+          ]
+        },
+        {
+          "name": "Shurovi B",
+          "order": 9,
+          "openalex_author_id": "https://openalex.org/A5083495331",
+          "institutions": [
+            {
+              "name": "University Hospital Lewisham",
+              "ror": "https://ror.org/04vgz8j88",
+              "country_code": "GB"
+            }
+          ]
+        },
+        {
+          "name": "Rowland K",
+          "order": 10,
+          "openalex_author_id": "https://openalex.org/A5054160291",
+          "institutions": [
+            {
+              "name": "University Hospital Lewisham",
+              "ror": "https://ror.org/04vgz8j88",
+              "country_code": "GB"
+            }
+          ]
+        },
+        {
+          "name": "Sykes R",
+          "order": 11,
+          "openalex_author_id": "https://openalex.org/A5019361375",
+          "institutions": [
+            {
+              "name": "University Hospital Lewisham",
+              "ror": "https://ror.org/04vgz8j88",
+              "country_code": "GB"
+            }
+          ]
+        },
+        {
+          "name": "Yoon S",
+          "order": 12,
+          "openalex_author_id": "https://openalex.org/A5101523379",
+          "institutions": [
+            {
+              "name": "University Hospital Lewisham",
+              "ror": "https://ror.org/04vgz8j88",
+              "country_code": "GB"
+            }
+          ]
+        },
+        {
+          "name": "Morillon P",
+          "order": 13,
+          "openalex_author_id": "https://openalex.org/A5091332801",
+          "institutions": [
+            {
+              "name": "University Hospital Lewisham",
+              "ror": "https://ror.org/04vgz8j88",
+              "country_code": "GB"
+            }
+          ]
+        },
+        {
+          "name": "Vijayakumar RS",
+          "order": 14,
+          "openalex_author_id": "https://openalex.org/A5026792231",
+          "institutions": [
+            {
+              "name": "University Hospital Lewisham",
+              "ror": "https://ror.org/04vgz8j88",
+              "country_code": "GB"
+            }
+          ]
+        },
+        {
+          "name": "Clarke J",
+          "order": 15,
+          "openalex_author_id": "https://openalex.org/A5041885616",
+          "institutions": [
+            {
+              "name": "University Hospital Lewisham",
+              "ror": "https://ror.org/04vgz8j88",
+              "country_code": "GB"
+            }
+          ]
+        },
+        {
+          "name": "Cox C",
+          "order": 16,
+          "openalex_author_id": "https://openalex.org/A5102849814",
+          "institutions": [
+            {
+              "name": "University Hospital Lewisham",
+              "ror": "https://ror.org/04vgz8j88",
+              "country_code": "GB"
+            }
+          ]
+        },
+        {
+          "name": "Breeze R",
+          "order": 17,
+          "openalex_author_id": "https://openalex.org/A5076767291",
+          "institutions": [
+            {
+              "name": "University Hospital Lewisham",
+              "ror": "https://ror.org/04vgz8j88",
+              "country_code": "GB"
+            }
+          ]
+        },
+        {
+          "name": "Khaliq W",
+          "order": 18,
+          "openalex_author_id": "https://openalex.org/A5104507868",
+          "institutions": [
+            {
+              "name": "University Hospital Lewisham",
+              "ror": "https://ror.org/04vgz8j88",
+              "country_code": "GB"
+            }
+          ]
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W3106291615",
+        "cited_by_count": 6,
+        "is_retracted": false,
+        "concepts": [
+          "Medicine",
+          "Interquartile range",
+          "Intensive care unit",
+          "Mechanical ventilation",
+          "Renal replacement therapy",
+          "Acute kidney injury",
+          "Observational study",
+          "Intensive care",
+          "Retrospective cohort study",
+          "Emergency medicine",
+          "Internal medicine",
+          "Pediatrics",
+          "Intensive care medicine"
+        ]
+      },
+      "icite": {
+        "cited_by": [
+          34733538,
+          35439073,
+          38222708,
+          38394964,
+          35274052,
+          40709582
+        ]
+      },
+      "citations": {
+        "value": 6,
+        "source_of_truth": "both",
+        "sources": {
+          "openalex": {
+            "value": 6,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": null,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "35068756",
+      "title": "Catheter-related Infections and Microbiological Characteristics in Coiled Versus Straight Peritoneal Dialysis Catheters in Malaysia.",
+      "journal": "Indian journal of nephrology",
+      "pub_year": 2021,
+      "doi": "10.4103/ijn.IJN_238_20",
+      "authors": [
+        {
+          "name": "Abdul Rashid AM",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5112751501",
+          "institutions": [
+            {
+              "name": "Universiti Putra Malaysia",
+              "ror": "https://ror.org/02e91jd64",
+              "country_code": "MY"
+            }
+          ]
+        },
+        {
+          "name": "Lim CTS",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5109543432",
+          "institutions": [
+            {
+              "name": "Universiti Putra Malaysia",
+              "ror": "https://ror.org/02e91jd64",
+              "country_code": "MY"
+            }
+          ]
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W4225283731",
+        "cited_by_count": 3,
+        "is_retracted": false,
+        "concepts": [
+          "Medicine",
+          "Catheter",
+          "Peritonitis",
+          "Peritoneal dialysis",
+          "Dialysis catheter",
+          "Surgery",
+          "End stage renal disease",
+          "Internal medicine",
+          "Exit site",
+          "Hemodialysis"
+        ]
+      },
+      "icite": {
+        "cited_by": [
+          35840130,
+          35967542
+        ]
+      },
+      "citations": {
+        "value": 3,
+        "source_of_truth": "both",
+        "sources": {
+          "openalex": {
+            "value": 3,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": null,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "35036832",
+      "title": "\"We shall have gone to a higher standard\": Training village heath teams (VHTs) to use a smartphone-guided intervention to link older Ugandans with hypertension and diabetes to care.",
+      "journal": "AAS open research",
+      "pub_year": 2020,
+      "doi": "10.12688/aasopenres.13049.2",
+      "authors": [
+        {
+          "name": "Mugisha JO",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5067476982",
+          "institutions": [
+            {
+              "name": "University of London",
+              "ror": "https://ror.org/04cw6st05",
+              "country_code": "GB"
+            },
+            {
+              "name": "Uganda Virus Research Institute",
+              "ror": "https://ror.org/04509n826",
+              "country_code": "UG"
+            },
+            {
+              "name": "London School of Hygiene & Tropical Medicine",
+              "ror": "https://ror.org/00a0jsq62",
+              "country_code": "GB"
+            }
+          ]
+        },
+        {
+          "name": "Seeley J",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5082554238",
+          "institutions": [
+            {
+              "name": "University of London",
+              "ror": "https://ror.org/04cw6st05",
+              "country_code": "GB"
+            },
+            {
+              "name": "London School of Hygiene & Tropical Medicine",
+              "ror": "https://ror.org/00a0jsq62",
+              "country_code": "GB"
+            },
+            {
+              "name": "Uganda Virus Research Institute",
+              "ror": "https://ror.org/04509n826",
+              "country_code": "UG"
+            }
+          ]
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W3037450532",
+        "cited_by_count": 3,
+        "is_retracted": false,
+        "concepts": [
+          "Medicine",
+          "Diabetes mellitus",
+          "Psychological intervention",
+          "Referral",
+          "Intervention (counseling)",
+          "Gerontology",
+          "Family medicine",
+          "Nursing",
+          "Endocrinology"
+        ]
+      },
+      "icite": {
+        "cited_by": [
+          37693860,
+          38233923,
+          38292066
+        ]
+      },
+      "citations": {
+        "value": 3,
+        "source_of_truth": "both",
+        "sources": {
+          "openalex": {
+            "value": 3,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": null,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "34966831",
+      "title": "Predictive factors of early outcome after palliative surgery for colorectal carcinoma.",
+      "journal": "Innovative surgical sciences",
+      "pub_year": 2020,
+      "doi": "10.1515/iss-2020-0018",
+      "authors": [
+        {
+          "name": "Konopke R",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5023260200",
+          "institutions": []
+        },
+        {
+          "name": "Schubert J",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5113624129",
+          "institutions": []
+        },
+        {
+          "name": "Stöltzing O",
+          "order": 3,
+          "openalex_author_id": "https://openalex.org/A5085223734",
+          "institutions": []
+        },
+        {
+          "name": "Thomas T",
+          "order": 4,
+          "openalex_author_id": "https://openalex.org/A5103259570",
+          "institutions": [
+            {
+              "name": "Klinik und Poliklinik für Psychotherapie und Psychosomatik",
+              "ror": "https://ror.org/05medrv10",
+              "country_code": "DE"
+            }
+          ]
+        },
+        {
+          "name": "Kersting S",
+          "order": 5,
+          "openalex_author_id": "https://openalex.org/A5078251698",
+          "institutions": [
+            {
+              "name": "Universitätsmedizin Greifswald",
+              "ror": "https://ror.org/025vngs54",
+              "country_code": "DE"
+            }
+          ]
+        },
+        {
+          "name": "Denz A",
+          "order": 6,
+          "openalex_author_id": "https://openalex.org/A5045653209",
+          "institutions": [
+            {
+              "name": "Universitätsklinikum Erlangen",
+              "ror": "https://ror.org/0030f2a11",
+              "country_code": "DE"
+            }
+          ]
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W3095242957",
+        "cited_by_count": 5,
+        "is_retracted": false,
+        "concepts": [
+          "Medicine",
+          "Colorectal cancer",
+          "Surgery",
+          "Colostomy",
+          "Medical record",
+          "Anastomosis",
+          "Diabetes mellitus",
+          "Retrospective cohort study",
+          "Renal cell carcinoma",
+          "Internal medicine",
+          "Logistic regression",
+          "Cancer",
+          "Endocrinology"
+        ]
+      },
+      "icite": {
+        "cited_by": [
+          35768977,
+          36465229,
+          40141695
+        ]
+      },
+      "citations": {
+        "value": 5,
+        "source_of_truth": "both",
+        "sources": {
+          "openalex": {
+            "value": 5,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": null,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "34950321",
+      "title": "Effect of Intensive Blood Pressure Lowering on Incident Atrial Fibrillation: A Systematic Review and Meta-Analysis.",
+      "journal": "Journal of atrial fibrillation",
+      "pub_year": 2020,
+      "doi": "10.4022/jafib.2401",
+      "authors": [
+        {
+          "name": "J Singleton M",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5050458591",
+          "institutions": [
+            {
+              "name": "Wake Forest University",
+              "ror": "https://ror.org/0207ad724",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "Y Chen L",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5090746361",
+          "institutions": [
+            {
+              "name": "University of Minnesota Medical Center",
+              "ror": "https://ror.org/03e1ayz78",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "Whalen SP",
+          "order": 3,
+          "openalex_author_id": "https://openalex.org/A5017645836",
+          "institutions": [
+            {
+              "name": "Wake Forest University",
+              "ror": "https://ror.org/0207ad724",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "D Bhave P",
+          "order": 4,
+          "openalex_author_id": "https://openalex.org/A5012833305",
+          "institutions": [
+            {
+              "name": "Wake Forest University",
+              "ror": "https://ror.org/0207ad724",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "H Beaty E",
+          "order": 5,
+          "openalex_author_id": "https://openalex.org/A5010898729",
+          "institutions": [
+            {
+              "name": "Wake Forest University",
+              "ror": "https://ror.org/0207ad724",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "Yeboah J",
+          "order": 6,
+          "openalex_author_id": "https://openalex.org/A5068380422",
+          "institutions": [
+            {
+              "name": "Wake Forest University",
+              "ror": "https://ror.org/0207ad724",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "Z Soliman E",
+          "order": 7,
+          "openalex_author_id": "https://openalex.org/A5046831441",
+          "institutions": [
+            {
+              "name": "Wake Forest University",
+              "ror": "https://ror.org/0207ad724",
+              "country_code": "US"
+            }
+          ]
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W3137561297",
+        "cited_by_count": 4,
+        "is_retracted": false,
+        "concepts": [
+          "Medicine",
+          "Blood pressure",
+          "Atrial fibrillation",
+          "Randomized controlled trial",
+          "Confidence interval",
+          "Internal medicine",
+          "Hazard ratio",
+          "Meta-analysis",
+          "Cardiology"
+        ]
+      },
+      "icite": {
+        "cited_by": [
+          36580092,
+          36350774,
+          36519436
+        ]
+      },
+      "citations": {
+        "value": 4,
+        "source_of_truth": "both",
+        "sources": {
+          "openalex": {
+            "value": 4,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": null,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "34950316",
+      "title": "Concealed Coronary Atherosclerosis In Idiopathic Paroxysmal Atrial Fibrillation is Associated with Imminent Cardiovascular Diseases.",
+      "journal": "Journal of atrial fibrillation",
+      "pub_year": 2020,
+      "doi": "10.4022/jafib.2321",
+      "authors": [
+        {
+          "name": "Dudink E",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5107430565",
+          "institutions": [
+            {
+              "name": "Maastricht University",
+              "ror": "https://ror.org/02jz4aj89",
+              "country_code": "NL"
+            }
+          ]
+        },
+        {
+          "name": "Weijs B",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5063125852",
+          "institutions": [
+            {
+              "name": "Maastricht University",
+              "ror": "https://ror.org/02jz4aj89",
+              "country_code": "NL"
+            }
+          ]
+        },
+        {
+          "name": "Luermans J",
+          "order": 3,
+          "openalex_author_id": "https://openalex.org/A5114019985",
+          "institutions": [
+            {
+              "name": "Maastricht University",
+              "ror": "https://ror.org/02jz4aj89",
+              "country_code": "NL"
+            }
+          ]
+        },
+        {
+          "name": "Peeters F",
+          "order": 4,
+          "openalex_author_id": "https://openalex.org/A5112618674",
+          "institutions": [
+            {
+              "name": "Maastricht University",
+              "ror": "https://ror.org/02jz4aj89",
+              "country_code": "NL"
+            }
+          ]
+        },
+        {
+          "name": "Altintas S",
+          "order": 5,
+          "openalex_author_id": "https://openalex.org/A5056559418",
+          "institutions": [
+            {
+              "name": "Maastricht University",
+              "ror": "https://ror.org/02jz4aj89",
+              "country_code": "NL"
+            }
+          ]
+        },
+        {
+          "name": "Vernooy K",
+          "order": 6,
+          "openalex_author_id": "https://openalex.org/A5048637744",
+          "institutions": [
+            {
+              "name": "Maastricht University",
+              "ror": "https://ror.org/02jz4aj89",
+              "country_code": "NL"
+            }
+          ]
+        },
+        {
+          "name": "Pison L",
+          "order": 7,
+          "openalex_author_id": "https://openalex.org/A5109492807",
+          "institutions": [
+            {
+              "name": "Maastricht University",
+              "ror": "https://ror.org/02jz4aj89",
+              "country_code": "NL"
+            }
+          ]
+        },
+        {
+          "name": "Haest RJ",
+          "order": 8,
+          "openalex_author_id": "https://openalex.org/A5044295866",
+          "institutions": [
+            {
+              "name": "St. Anna Ziekenhuis",
+              "ror": "https://ror.org/04y89nz36",
+              "country_code": "NL"
+            }
+          ]
+        },
+        {
+          "name": "Kragten JA",
+          "order": 9,
+          "openalex_author_id": "https://openalex.org/A5109544188",
+          "institutions": [
+            {
+              "name": "Zuyderland Medisch Centrum",
+              "ror": "https://ror.org/03bfc4534",
+              "country_code": "NL"
+            }
+          ]
+        },
+        {
+          "name": "Kietselaer B",
+          "order": 10,
+          "openalex_author_id": "https://openalex.org/A5087921308",
+          "institutions": [
+            {
+              "name": "Zuyderland Medisch Centrum",
+              "ror": "https://ror.org/03bfc4534",
+              "country_code": "NL"
+            }
+          ]
+        },
+        {
+          "name": "Wildberger JE",
+          "order": 11,
+          "openalex_author_id": "https://openalex.org/A5038435823",
+          "institutions": [
+            {
+              "name": "Maastricht University",
+              "ror": "https://ror.org/02jz4aj89",
+              "country_code": "NL"
+            }
+          ]
+        },
+        {
+          "name": "Crijns H",
+          "order": 12,
+          "openalex_author_id": "https://openalex.org/A5113778175",
+          "institutions": [
+            {
+              "name": "Maastricht University",
+              "ror": "https://ror.org/02jz4aj89",
+              "country_code": "NL"
+            }
+          ]
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W3137360131",
+        "cited_by_count": 0,
+        "is_retracted": false,
+        "concepts": [
+          "Medicine",
+          "Cardiology",
+          "Internal medicine",
+          "Atrial fibrillation",
+          "Coronary artery disease",
+          "Sinus rhythm",
+          "Subclinical infection",
+          "Population",
+          "Diabetes mellitus",
+          "Incidence (geometry)",
+          "Physics",
+          "Environmental health",
+          "Optics",
+          "Endocrinology"
+        ]
+      },
+      "icite": {
+        "cited_by": null
+      },
+      "citations": {
+        "value": 0,
+        "source_of_truth": "reconciled",
+        "sources": {
+          "openalex": {
+            "value": 0,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": 0,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "34938005",
+      "title": "Prevalence of systemic diseases in patients undergoing minor oral surgeries.",
+      "journal": "Bioinformation",
+      "pub_year": 2020,
+      "doi": "10.6026/973206300161051",
+      "authors": [
+        {
+          "name": "Mahtani A",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5042740826",
+          "institutions": [
+            {
+              "name": "Saveetha University",
+              "ror": "https://ror.org/0034me914",
+              "country_code": "IN"
+            }
+          ]
+        },
+        {
+          "name": "Santhosh MP",
+          "order": 2
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W3119519778",
+        "cited_by_count": 3,
+        "is_retracted": false,
+        "concepts": [
+          "Medicine",
+          "Minor (academic)",
+          "Oral surgery",
+          "Minor surgery",
+          "Systemic disease",
+          "Oral Surgical Procedures",
+          "Surgery",
+          "Internal medicine",
+          "Disease",
+          "Political science",
+          "Law"
+        ]
+      },
+      "icite": {
+        "cited_by": [
+          37680041,
+          40055745
+        ]
+      },
+      "citations": {
+        "value": 3,
+        "source_of_truth": "both",
+        "sources": {
+          "openalex": {
+            "value": 3,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": null,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "40078796",
+      "title": "Self-management and its associated factors among people living with diabetes in Blantyre, Malawi: a cross-sectional study.",
+      "journal": "AAS open research",
+      "pub_year": 2019,
+      "doi": "10.12688/aasopenres.12992.2",
+      "authors": [
+        {
+          "name": "Kwanjo Banda C",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5033923177",
+          "institutions": [
+            {
+              "name": "Kamuzu Central Hospital",
+              "ror": "https://ror.org/022j3nr24",
+              "country_code": "MW"
+            },
+            {
+              "name": "Kamuzu University of Health Sciences",
+              "ror": "https://ror.org/00khnq787",
+              "country_code": null
+            }
+          ]
+        },
+        {
+          "name": "Gombachika BT",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5033865542",
+          "institutions": [
+            {
+              "name": "Kamuzu Central Hospital",
+              "ror": "https://ror.org/022j3nr24",
+              "country_code": "MW"
+            },
+            {
+              "name": "Kamuzu University of Health Sciences",
+              "ror": "https://ror.org/00khnq787",
+              "country_code": null
+            }
+          ]
+        },
+        {
+          "name": "Nyirenda MJ",
+          "order": 3,
+          "openalex_author_id": "https://openalex.org/A5049128105",
+          "institutions": [
+            {
+              "name": "Kamuzu Central Hospital",
+              "ror": "https://ror.org/022j3nr24",
+              "country_code": "MW"
+            },
+            {
+              "name": "Kamuzu University of Health Sciences",
+              "ror": "https://ror.org/00khnq787",
+              "country_code": null
+            },
+            {
+              "name": "Uganda Virus Research Institute",
+              "ror": "https://ror.org/04509n826",
+              "country_code": "UG"
+            }
+          ]
+        },
+        {
+          "name": "Muula AS",
+          "order": 4,
+          "openalex_author_id": "https://openalex.org/A5087312470",
+          "institutions": [
+            {
+              "name": "Kamuzu Central Hospital",
+              "ror": "https://ror.org/022j3nr24",
+              "country_code": "MW"
+            },
+            {
+              "name": "Kamuzu University of Health Sciences",
+              "ror": "https://ror.org/00khnq787",
+              "country_code": null
+            }
+          ]
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W4226223817",
+        "cited_by_count": 2,
+        "is_retracted": false,
+        "concepts": [
+          "Logistic regression",
+          "Diabetes mellitus",
+          "Medicine",
+          "Diabetes management",
+          "Referral",
+          "Univariate analysis",
+          "Cross-sectional study",
+          "Social cognitive theory",
+          "Gerontology",
+          "Demographics",
+          "Multivariate analysis",
+          "Demography",
+          "Type 2 diabetes",
+          "Family medicine",
+          "Psychology",
+          "Internal medicine",
+          "Social psychology",
+          "Endocrinology",
+          "Pathology",
+          "Sociology"
+        ]
+      },
+      "icite": {
+        "cited_by": [
+          38771783,
+          40617607
+        ]
+      },
+      "citations": {
+        "value": 2,
+        "source_of_truth": "both",
+        "sources": {
+          "openalex": {
+            "value": 2,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": null,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "34924170",
+      "title": "Diabetes Self-management Education and Support in Adults With Type 2 Diabetes: A Consensus Report of the American Diabetes Association, the Association of Diabetes Care and Education Specialists, the Academy of Nutrition and Dietetics, the American Academy of Family Physicians, the American Academy of PAs, the American Association of Nurse Practitioners, and the American Pharmacists Association.",
+      "journal": "Journal of the Academy of Nutrition and Dietetics",
+      "pub_year": 2021,
+      "doi": "10.1016/j.jand.2020.04.020",
+      "authors": [
+        {
+          "name": "Powers MA",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5105935798",
+          "institutions": [
+            {
+              "name": "HealthPartners",
+              "ror": "https://ror.org/03s9ada67",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "Bardsley JK",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5021660809",
+          "institutions": [
+            {
+              "name": "MedStar Health",
+              "ror": "https://ror.org/05atemp08",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "Cypress M",
+          "order": 3,
+          "openalex_author_id": "https://openalex.org/A5009340479",
+          "institutions": [
+            {
+              "name": "Radiology Associates of Albuquerque",
+              "ror": "https://ror.org/03a2xf890",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "Funnell MM",
+          "order": 4,
+          "openalex_author_id": "https://openalex.org/A5011440245",
+          "institutions": [
+            {
+              "name": "University of Michigan",
+              "ror": "https://ror.org/00jmfr291",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "Harms D",
+          "order": 5,
+          "openalex_author_id": "https://openalex.org/A5019476737",
+          "institutions": [
+            {
+              "name": "Iowa Pork Producers Association",
+              "ror": "https://ror.org/00zs1y079",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "Hess-Fischl A",
+          "order": 6,
+          "openalex_author_id": "https://openalex.org/A5010709174",
+          "institutions": [
+            {
+              "name": "University of Chicago",
+              "ror": "https://ror.org/024mw5h28",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "Hooks B",
+          "order": 7,
+          "openalex_author_id": "https://openalex.org/A5059023275",
+          "institutions": [
+            {
+              "name": "Community Hospital",
+              "ror": "https://ror.org/04z5qk104",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "Isaacs D",
+          "order": 8,
+          "openalex_author_id": "https://openalex.org/A5022179243",
+          "institutions": [
+            {
+              "name": "Cleveland Clinic",
+              "ror": "https://ror.org/03xjacd83",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "Mandel ED",
+          "order": 9,
+          "openalex_author_id": "https://openalex.org/A5112248242",
+          "institutions": [
+            {
+              "name": "Johnson & Wales University",
+              "ror": "https://ror.org/03w2cyv53",
+              "country_code": "US"
+            },
+            {
+              "name": "Providence College",
+              "ror": "https://ror.org/00rxpqe74",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "Maryniuk MD",
+          "order": 10,
+          "openalex_author_id": "https://openalex.org/A5109221834",
+          "institutions": []
+        },
+        {
+          "name": "Norton A",
+          "order": 11,
+          "openalex_author_id": "https://openalex.org/A5079445518",
+          "institutions": []
+        },
+        {
+          "name": "Rinker J",
+          "order": 12,
+          "openalex_author_id": "https://openalex.org/A5072129035",
+          "institutions": [
+            {
+              "name": "American Association of Diabetes Educators",
+              "ror": "https://ror.org/04vc9z215",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "Siminerio LM",
+          "order": 13,
+          "openalex_author_id": "https://openalex.org/A5006201780",
+          "institutions": [
+            {
+              "name": "University of Pittsburgh",
+              "ror": "https://ror.org/01an3r305",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "name": "Uelmen S",
+          "order": 14,
+          "openalex_author_id": "https://openalex.org/A5002425515",
+          "institutions": [
+            {
+              "name": "American Association of Diabetes Educators",
+              "ror": "https://ror.org/04vc9z215",
+              "country_code": "US"
+            }
+          ]
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W3034758528",
+        "cited_by_count": 19,
+        "is_retracted": false,
+        "concepts": [
+          "Diabetes mellitus",
+          "Medicine",
+          "Association (psychology)",
+          "Type 2 diabetes",
+          "Diabetes management",
+          "Gerontology",
+          "Family medicine",
+          "Endocrinology",
+          "Psychology",
+          "Psychotherapist"
+        ]
+      },
+      "icite": {
+        "cited_by": [
+          39913390,
+          35700683,
+          38589493,
+          38812671,
+          37071075,
+          37674439,
+          38660249,
+          33975690,
+          38364677,
+          39649697,
+          35961614,
+          40817355,
+          35346971,
+          39784112,
+          37064686
+        ]
+      },
+      "citations": {
+        "value": 19,
+        "source_of_truth": "both",
+        "sources": {
+          "openalex": {
+            "value": 19,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": null,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "34909644",
+      "title": "Emerging roles of cardamonin, a multitargeted nutraceutical in the prevention and treatment of chronic diseases.",
+      "journal": "Current research in pharmacology and drug discovery",
+      "pub_year": 2021,
+      "doi": "10.1016/j.crphar.2020.100008",
+      "authors": [
+        {
+          "name": "Daimary UD",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5083461861",
+          "institutions": [
+            {
+              "name": "Indian Institute of Technology Guwahati",
+              "ror": "https://ror.org/0022nd079",
+              "country_code": "IN"
+            }
+          ]
+        },
+        {
+          "name": "Parama D",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5006114608",
+          "institutions": [
+            {
+              "name": "Indian Institute of Technology Guwahati",
+              "ror": "https://ror.org/0022nd079",
+              "country_code": "IN"
+            }
+          ]
+        },
+        {
+          "name": "Rana V",
+          "order": 3,
+          "openalex_author_id": "https://openalex.org/A5059619420",
+          "institutions": [
+            {
+              "name": "Indian Institute of Technology Guwahati",
+              "ror": "https://ror.org/0022nd079",
+              "country_code": "IN"
+            }
+          ]
+        },
+        {
+          "name": "Banik K",
+          "order": 4,
+          "openalex_author_id": "https://openalex.org/A5019088155",
+          "institutions": [
+            {
+              "name": "Indian Institute of Technology Guwahati",
+              "ror": "https://ror.org/0022nd079",
+              "country_code": "IN"
+            }
+          ]
+        },
+        {
+          "name": "Kumar A",
+          "order": 5,
+          "openalex_author_id": "https://openalex.org/A5028357860",
+          "institutions": [
+            {
+              "name": "Indian Institute of Technology Guwahati",
+              "ror": "https://ror.org/0022nd079",
+              "country_code": "IN"
+            }
+          ]
+        },
+        {
+          "name": "Harsha C",
+          "order": 6,
+          "openalex_author_id": "https://openalex.org/A5037680581",
+          "institutions": [
+            {
+              "name": "Indian Institute of Technology Guwahati",
+              "ror": "https://ror.org/0022nd079",
+              "country_code": "IN"
+            }
+          ]
+        },
+        {
+          "name": "Kunnumakkara AB",
+          "order": 7,
+          "openalex_author_id": "https://openalex.org/A5038274221",
+          "institutions": [
+            {
+              "name": "Indian Institute of Technology Guwahati",
+              "ror": "https://ror.org/0022nd079",
+              "country_code": "IN"
+            }
+          ]
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W3112197971",
+        "cited_by_count": 37,
+        "is_retracted": false,
+        "concepts": [
+          "Medicine",
+          "Mechanism (biology)",
+          "Bioinformatics",
+          "XIAP",
+          "Rheumatoid arthritis",
+          "Pharmacology",
+          "Immunology",
+          "Biology",
+          "Apoptosis",
+          "Caspase",
+          "Philosophy",
+          "Biochemistry",
+          "Epistemology",
+          "Programmed cell death"
+        ]
+      },
+      "icite": {
+        "cited_by": [
+          34842329,
+          36672126,
+          38353331,
+          39569022,
+          39595196,
+          36046754,
+          39621431,
+          36904120,
+          36078071,
+          35006466,
+          33860191,
+          40620466,
+          34170599,
+          34944491,
+          35993769,
+          39924970,
+          34890758,
+          34994311,
+          36139025,
+          35740065,
+          39536185,
+          34498308,
+          36615695,
+          36181264,
+          34208700,
+          37082752,
+          39217878,
+          35102626,
+          40454373
+        ]
+      },
+      "citations": {
+        "value": 37,
+        "source_of_truth": "both",
+        "sources": {
+          "openalex": {
+            "value": 37,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": null,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "34907766",
+      "title": "Alterations of glycaemia, insulin resistance and body mass index within the C-peptide optimal range in non-diabetic patients.",
+      "journal": "Journal of applied biomedicine",
+      "pub_year": 2020,
+      "doi": "10.32725/jab.2020.018",
+      "authors": [
+        {
+          "name": "Kron V",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5071470807",
+          "institutions": [
+            {
+              "name": "University of South Bohemia in České Budějovice",
+              "ror": "https://ror.org/033n3pw66",
+              "country_code": "CZ"
+            }
+          ]
+        },
+        {
+          "name": "Verner M",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5018876559",
+          "institutions": []
+        },
+        {
+          "name": "Smetana P",
+          "order": 3,
+          "openalex_author_id": "https://openalex.org/A5045730979",
+          "institutions": [
+            {
+              "name": "University of South Bohemia in České Budějovice",
+              "ror": "https://ror.org/033n3pw66",
+              "country_code": "CZ"
+            }
+          ]
+        },
+        {
+          "name": "Janoutova J",
+          "order": 4,
+          "openalex_author_id": "https://openalex.org/A5007168870",
+          "institutions": [
+            {
+              "name": "Palacký University Olomouc",
+              "ror": "https://ror.org/04qxnmv42",
+              "country_code": "CZ"
+            }
+          ]
+        },
+        {
+          "name": "Janout V",
+          "order": 5,
+          "openalex_author_id": "https://openalex.org/A5057649971",
+          "institutions": [
+            {
+              "name": "Palacký University Olomouc",
+              "ror": "https://ror.org/04qxnmv42",
+              "country_code": "CZ"
+            }
+          ]
+        },
+        {
+          "name": "Martinik K",
+          "order": 6,
+          "openalex_author_id": "https://openalex.org/A5058711553",
+          "institutions": []
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W3112951537",
+        "cited_by_count": 2,
+        "is_retracted": false,
+        "concepts": [
+          "Insulin resistance",
+          "Internal medicine",
+          "C-peptide",
+          "Body mass index",
+          "Endocrinology",
+          "Insulin",
+          "Quartile",
+          "Medicine",
+          "Diabetes mellitus",
+          "Homeostatic model assessment",
+          "Peptide",
+          "Homeostasis",
+          "Hyperinsulinemia",
+          "Chemistry",
+          "Biochemistry",
+          "Confidence interval"
+        ]
+      },
+      "icite": {
+        "cited_by": [
+          38963515
+        ]
+      },
+      "citations": {
+        "value": 2,
+        "source_of_truth": "both",
+        "sources": {
+          "openalex": {
+            "value": 2,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": null,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "34898136",
+      "title": "Electrical vestibular nerve stimulation as an adjunctive therapy in the management of type 2 diabetes.",
+      "journal": "Journal of basic and clinical physiology and pharmacology",
+      "pub_year": 2020,
+      "doi": "10.1515/jbcpp-2020-0210",
+      "authors": [
+        {
+          "name": "Goothy SSK",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5070737239",
+          "institutions": [
+            {
+              "name": "Ruxmaniben Deepchand Gardi Medical College",
+              "ror": "https://ror.org/01cv9mb69",
+              "country_code": "IN"
+            }
+          ]
+        },
+        {
+          "name": "McKeown J",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5001412209",
+          "institutions": [
+            {
+              "name": "University of California, San Diego",
+              "ror": "https://ror.org/0168r3w48",
+              "country_code": "US"
+            },
+            {
+              "name": "Queen's University Belfast",
+              "ror": "https://ror.org/00hswnk62",
+              "country_code": "GB"
+            }
+          ]
+        },
+        {
+          "name": "D Mcgeoch P",
+          "order": 3,
+          "openalex_author_id": "https://openalex.org/A5069975427",
+          "institutions": []
+        },
+        {
+          "name": "B S",
+          "order": 4,
+          "openalex_author_id": "https://openalex.org/A5109082531",
+          "institutions": [
+            {
+              "name": "Ruxmaniben Deepchand Gardi Medical College",
+              "ror": "https://ror.org/01cv9mb69",
+              "country_code": "IN"
+            }
+          ]
+        },
+        {
+          "name": "Vijayaraghavan R",
+          "order": 5,
+          "openalex_author_id": "https://openalex.org/A5011379965",
+          "institutions": [
+            {
+              "name": "Saveetha University",
+              "ror": "https://ror.org/0034me914",
+              "country_code": "IN"
+            }
+          ]
+        },
+        {
+          "name": "Manyam R",
+          "order": 6,
+          "openalex_author_id": "https://openalex.org/A5002123667",
+          "institutions": [
+            {
+              "name": "Vishnu Dental College",
+              "ror": "https://ror.org/04fyj8k59",
+              "country_code": null
+            },
+            {
+              "name": "MNR Dental College and Hospital",
+              "ror": "https://ror.org/047y9qy91",
+              "country_code": "IN"
+            }
+          ]
+        },
+        {
+          "name": "Vijay Khanderao M",
+          "order": 7,
+          "openalex_author_id": "https://openalex.org/A5080224201",
+          "institutions": [
+            {
+              "name": "Ruxmaniben Deepchand Gardi Medical College",
+              "ror": "https://ror.org/01cv9mb69",
+              "country_code": "IN"
+            }
+          ]
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W3108124844",
+        "cited_by_count": 8,
+        "is_retracted": false,
+        "concepts": [
+          "Medicine",
+          "Vestibular system",
+          "Stimulation",
+          "Vestibular nerve",
+          "Postprandial",
+          "Anesthesia",
+          "Diabetes mellitus",
+          "Type 2 diabetes",
+          "Physical therapy",
+          "Physical medicine and rehabilitation",
+          "Internal medicine",
+          "Audiology",
+          "Endocrinology"
+        ]
+      },
+      "icite": {
+        "cited_by": [
+          36209355,
+          37070257,
+          35285589
+        ]
+      },
+      "citations": {
+        "value": 8,
+        "source_of_truth": "both",
+        "sources": {
+          "openalex": {
+            "value": 8,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": null,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "34898066",
+      "title": "[Prevalence of erectile dysfunction and the associated factors in infertile males].",
+      "journal": "Zhonghua nan ke xue = National journal of andrology",
+      "pub_year": 2020,
+      "doi": null,
+      "authors": [
+        {
+          "name": "Zhang JZ",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5100442212",
+          "institutions": [
+            {
+              "name": "Peking Union Medical College Hospital",
+              "ror": "https://ror.org/04jztag35",
+              "country_code": "CN"
+            },
+            {
+              "name": "Chinese Academy of Medical Sciences & Peking Union Medical College",
+              "ror": "https://ror.org/02drdmm93",
+              "country_code": "CN"
+            }
+          ]
+        },
+        {
+          "name": "Li HS",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5020561054",
+          "institutions": [
+            {
+              "name": "Dongzhimen Hospital Affiliated to Beijing University of Chinese Medicine",
+              "ror": "https://ror.org/02yacz525",
+              "country_code": "CN"
+            }
+          ]
+        },
+        {
+          "name": "Zhao Y",
+          "order": 3,
+          "openalex_author_id": "https://openalex.org/A5104026749",
+          "institutions": [
+            {
+              "name": "Chinese PLA General Hospital",
+              "ror": "https://ror.org/04gw3ra78",
+              "country_code": "CN"
+            }
+          ]
+        },
+        {
+          "name": "Wang B",
+          "order": 4,
+          "openalex_author_id": "https://openalex.org/A5100766062",
+          "institutions": [
+            {
+              "name": "Dongzhimen Hospital Affiliated to Beijing University of Chinese Medicine",
+              "ror": "https://ror.org/02yacz525",
+              "country_code": "CN"
+            }
+          ]
+        },
+        {
+          "name": "Cai ZL",
+          "order": 5,
+          "openalex_author_id": "https://openalex.org/A5066390742",
+          "institutions": [
+            {
+              "name": "Peking Union Medical College Hospital",
+              "ror": "https://ror.org/04jztag35",
+              "country_code": "CN"
+            },
+            {
+              "name": "Chinese Academy of Medical Sciences & Peking Union Medical College",
+              "ror": "https://ror.org/02drdmm93",
+              "country_code": "CN"
+            }
+          ]
+        },
+        {
+          "name": "Li HJ",
+          "order": 6,
+          "openalex_author_id": "https://openalex.org/A5032247085",
+          "institutions": [
+            {
+              "name": "Peking Union Medical College Hospital",
+              "ror": "https://ror.org/04jztag35",
+              "country_code": "CN"
+            },
+            {
+              "name": "Chinese Academy of Medical Sciences & Peking Union Medical College",
+              "ror": "https://ror.org/02drdmm93",
+              "country_code": "CN"
+            }
+          ]
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W4206881109",
+        "cited_by_count": 1,
+        "is_retracted": false,
+        "concepts": [
+          "Medicine",
+          "Erectile dysfunction",
+          "Multivariate analysis",
+          "Sexual intercourse",
+          "Erectile function",
+          "Diabetes mellitus",
+          "Affection",
+          "Gynecology",
+          "Obstetrics",
+          "Internal medicine",
+          "Psychology",
+          "Population",
+          "Endocrinology",
+          "Social psychology",
+          "Environmental health"
+        ]
+      },
+      "icite": {
+        "cited_by": [
+          38622559
+        ]
+      },
+      "citations": {
+        "value": 1,
+        "source_of_truth": "both",
+        "sources": {
+          "openalex": {
+            "value": 1,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": null,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    },
+    {
+      "pmid": "34852104",
+      "title": "[Factors associated with leisure-time physical activity: analysis of Brazilians with chronic diseases].",
+      "journal": "Ciencia & saude coletiva",
+      "pub_year": 2021,
+      "doi": "10.1590/1413-812320212611.32432020",
+      "authors": [
+        {
+          "name": "Silva PSCD",
+          "order": 1,
+          "openalex_author_id": "https://openalex.org/A5103042455",
+          "institutions": [
+            {
+              "name": "Universidade Federal de Santa Catarina",
+              "ror": "https://ror.org/041akq887",
+              "country_code": "BR"
+            }
+          ]
+        },
+        {
+          "name": "Boing AF",
+          "order": 2,
+          "openalex_author_id": "https://openalex.org/A5046810890",
+          "institutions": [
+            {
+              "name": "Universidade Federal de Santa Catarina",
+              "ror": "https://ror.org/041akq887",
+              "country_code": "BR"
+            }
+          ]
+        }
+      ],
+      "openalex": {
+        "id": "https://openalex.org/W3217601134",
+        "cited_by_count": 13,
+        "is_retracted": false,
+        "concepts": [
+          "Medicine",
+          "Physical activity",
+          "Logistic regression",
+          "Demography",
+          "Odds",
+          "Diabetes mellitus",
+          "Public health",
+          "Gerontology",
+          "Odds ratio",
+          "Population",
+          "Environmental health",
+          "Internal medicine",
+          "Physical therapy",
+          "Endocrinology",
+          "Nursing",
+          "Sociology"
+        ]
+      },
+      "icite": {
+        "cited_by": [
+          37835157,
+          35269977,
+          40114788,
+          39381256,
+          34907263,
+          40396819
+        ]
+      },
+      "citations": {
+        "value": 13,
+        "source_of_truth": "both",
+        "sources": {
+          "openalex": {
+            "value": 13,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          },
+          "icite": {
+            "value": null,
+            "fetched_at": "2025-09-16T05:26:06Z"
+          }
+        },
+        "discrepancy": 0
+      }
+    }
+  ],
+  "output_file": "results.json"
+}
