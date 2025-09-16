@@ -15,8 +15,8 @@ from literature_harvester import LiteratureHarvester, Config
 
 # Page config
 st.set_page_config(
-    page_title="Literature Harvester Dashboard",
-    page_icon="📚",
+    page_title="Rare Life",
+    page_icon="🧬",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -166,14 +166,20 @@ def render_pyvis_network(edges: List[Tuple], name_map: Dict[str, int]) -> str:
                     pass  # If we still can't delete it, let the OS clean it up later
 
 def main():
-    st.title("📚 Literature Harvester Dashboard")
+    # Header with improved styling
+    st.markdown("""
+    <div style="text-align: center; padding: 1rem 0;">
+        <h1 style="color: #2E86AB; margin-bottom: 0.5rem;">🧬 Rare Life</h1>
+        <p style="color: #666; font-size: 1.2rem; margin-top: 0;">Literature Research & Citation Analysis Platform</p>
+    </div>
+    """, unsafe_allow_html=True)
     
     # Sidebar
-    st.sidebar.header("Configuration")
+    st.sidebar.markdown("### ⚙️ Configuration")
     
     # Runtime input section
-    st.sidebar.subheader("🔍 Run New Search")
-    with st.sidebar.expander("Search Parameters", expanded=False):
+    st.sidebar.markdown("### 🔍 New Literature Search")
+    with st.sidebar.expander("📋 Search Parameters", expanded=False):
         search_query = st.text_input("Search Query", placeholder="e.g., covid, diabetes, cancer")
         col1, col2 = st.columns(2)
         with col1:
@@ -243,14 +249,14 @@ def main():
     st.sidebar.divider()
     
     # File input
-    st.sidebar.subheader("📁 Load Existing Results")
+    st.sidebar.markdown("### 📁 Load Existing Results")
     file_path = st.sidebar.text_input("JSON File Path", 
                                      value=st.session_state.get('file_path', 'results.json'),
                                      key='file_path_input')
     
     if not os.path.exists(file_path):
         st.error(f"File not found: {file_path}")
-        st.info("💡 Use the 'Run New Search' section above to generate results, or check the file path.")
+        st.info("💡 Use the 'New Literature Search' section above to generate results, or check the file path.")
         return
     
     # Load data
@@ -265,7 +271,7 @@ def main():
         return
     
     # Sidebar filters
-    st.sidebar.header("Filters")
+    st.sidebar.markdown("### 🔍 Data Filters")
     
     # Year filter
     if 'pub_year' in df.columns and df['pub_year'].max() > 0:
@@ -289,7 +295,7 @@ def main():
         df_filtered = df_filtered[mask]
     
     # KPIs
-    st.header("📊 Key Performance Indicators")
+    st.markdown("## 📊 Research Analytics Overview")
     
     pubmed_data = payload.get('pubmed', {})
     total_count = pubmed_data.get('total_count', 0)
@@ -318,13 +324,13 @@ def main():
         st.metric("High Discrepancy", f"{high_disc_pct:.1f}%")
     
     # Charts
-    st.header("📈 Visualizations")
+    st.markdown("## 📈 Data Visualizations")
     
     col1, col2 = st.columns(2)
     
     with col1:
         # Yearly publications
-        st.subheader("Publications by Year")
+        st.markdown("### 📅 Publications by Year")
         if 'pub_year' in df_filtered.columns:
             year_counts = df_filtered['pub_year'].value_counts().sort_index()
             fig1 = px.bar(x=year_counts.index, y=year_counts.values, 
@@ -334,7 +340,7 @@ def main():
     
     with col2:
         # Citation scatter
-        st.subheader("OpenAlex vs iCite Citations")
+        st.markdown("### 🔗 OpenAlex vs iCite Citations")
         scatter_df = df_filtered[df_filtered['has_both']].copy()
         if not scatter_df.empty:
             fig2 = px.scatter(scatter_df, x='openalex_citations', y='icite_citations',
@@ -351,7 +357,7 @@ def main():
     
     with col3:
         # Discrepancy histogram
-        st.subheader("Citation Discrepancy Distribution")
+        st.markdown("### 📊 Citation Discrepancy Distribution")
         disc_df = df_filtered[df_filtered['has_both'] & (df_filtered['discrepancy'] > 0)]
         if not disc_df.empty:
             fig3 = px.histogram(disc_df, x='discrepancy', nbins=20)
@@ -361,7 +367,7 @@ def main():
     
     with col4:
         # Top authors
-        st.subheader("Top Authors by Papers")
+        st.markdown("### 👨‍🔬 Top Authors by Papers")
         author_counts = Counter()
         for authors in df_filtered['author_list']:
             for author in authors:
@@ -377,7 +383,7 @@ def main():
             st.plotly_chart(fig4, width='stretch')
     
     # Top institutions
-    st.subheader("Top Institutions by Papers")
+    st.markdown("### 🏛️ Top Institutions by Papers")
     inst_counts = Counter()
     for institutions in df_filtered['institutions']:
         for inst in institutions:
@@ -393,7 +399,7 @@ def main():
         st.plotly_chart(fig5, width='stretch')
     
     # Data table
-    st.header("📋 Article Data")
+    st.markdown("## 📋 Research Articles Database")
     
     # Prepare display dataframe
     display_df = df_filtered.copy()
@@ -418,9 +424,9 @@ def main():
     )
     
     # Coauthor network
-    st.header("🕸️ Coauthor Network")
+    st.markdown("## 🕸️ Research Collaboration Network")
     
-    if st.button("Generate Network"):
+    if st.button("🔄 Generate Network Visualization"):
         with st.spinner("Building coauthor network..."):
             edges, name_map = build_coauthor_edges(df_filtered, max_nodes=150)
             
